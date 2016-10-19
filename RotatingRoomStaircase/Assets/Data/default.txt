@@ -1,0 +1,144 @@
+Detected	Degrees Per Second	Correct Count	Step Size	Subject Number	Height	Age	Sex	RA Name	Other
+True	0	1	0.05				Option A		
+True	0	2	0.05				Option A		
+True	-13.5	3	0.05				Option A		
+True	0	4	0.05				Option A		
+True	-12	5	0.05				Option A		
+True	11.25	6	0.05				Option A		
+True	-10.5	7	0.05				Option A		
+True	9.749999	8	0.05				Option A		
+True	0	9	0.05				Option A		
+True	8.249998	10	0.05				Option A		
+True	-9	1	0.03				Option A		
+True	8.550001	2	0.03				Option A		
+True	0	3	0.03				Option A		
+True	7.650002	4	0.03				Option A		
+True	0	5	0.03				Option A		
+True	0	6	0.03				Option A		
+True	-6.300002	7	0.03				Option A		
+True	5.850001	8	0.03				Option A		
+True	0	9	0.03				Option A		
+True	0	10	0.03				Option A		
+True	0	1	0.018				Option A		
+True	0	2	0.018				Option A		
+True	0	3	0.018				Option A		
+True	0	4	0.018				Option A		
+True	-4.32	5	0.018				Option A		
+True	-15	1	0.05				Option A		
+True	0	2	0.05				Option A		
+True	-13.5	3	0.05				Option A		
+True	12.75	4	0.05				Option A		
+True	-12	5	0.05				Option A		
+True	0	6	0.05				Option A		
+True	-10.5	7	0.05				Option A		
+True	0	8	0.05				Option A		
+True	-8.999998	9	0.05				Option A		
+True	8.249998	10	0.05				Option A		
+True	0	1	0.03				Option A		
+True	0	2	0.03				Option A		
+True	-8.100001	3	0.03				Option A		
+True	0	4	0.03				Option A		
+True	0	5	0.03				Option A		
+True	0	6	0.03				Option A		
+True	-6.300002	7	0.03				Option A		
+True	5.850001	8	0.03				Option A		
+True	0	9	0.03				Option A		
+True	4.950002	10	0.03				Option A		
+True	-5.4	1	0.018				Option A		
+True	0	2	0.018				Option A		
+True	-4.86	3	0.018				Option A		
+True	4.59	4	0.018				Option A		
+True	-4.32	5	0.018				Option A		
+True	4.05	6	0.018				Option A		
+True	0	7	0.018				Option A		
+True	3.51	8	0.018				Option A		
+True	0	9	0.018				Option A		
+True	0	10	0.018				Option A		
+True	0	1	0.0108				Option A		
+True	0	2	0.0108				Option A		
+True	-2.916	3	0.0108				Option A		
+True	2.754	4	0.0108				Option A		
+True	-2.592	5	0.0108				Option A		
+True	2.43	6	0.0108				Option A		
+True	-2.268	7	0.0108				Option A		
+True	0	8	0.0108				Option A		
+True	0	9	0.0108				Option A		
+True	0	10	0.0108				Option A		
+True	-1.944	1	0.006480001				Option A		
+True	0	2	0.006480001				Option A		
+True	0	3	0.006480001				Option A		
+True	0	4	0.006480001				Option A		
+True	0	5	0.006480001				Option A		
+True	0	6	0.006480001				Option A		
+True	0	7	0.006480001				Option A		
+True	1.2636	8	0.006480001				Option A		
+True	-1.1664	9	0.006480001				Option A		
+True	0	10	0.006480001				Option A		
+True	0	1	0.003888001				Option A		
+True	1.10808	2	0.003888001				Option A		
+True	0	3	0.003888001				Option A		
+True	0	4	0.003888001				Option A		
+True	0	5	0.003888001				Option A		
+True	0.8748	6	0.003888001				Option A		
+True	-0.81648	7	0.003888001				Option A		
+True	0.75816	8	0.003888001				Option A		
+True	0	9	0.003888001				Option A		
+True	0.64152	10	0.003888001				Option A		
+True	0	1	0.002332801				Option A		
+True	0.6648481	2	0.002332801				Option A		
+True	0	3	0.002332801				Option A		
+True	0	4	0.002332801				Option A		
+True	-0.5598722	5	0.002332801				Option A		
+True	0.5248802	6	0.002332801				Option A		
+True	-0.4898882	7	0.002332801				Option A		
+True	0.4548962	8	0.002332801				Option A		
+True	-0.4199042	9	0.002332801				Option A		
+True	0.3849122	10	0.002332801				Option A		
+True	0	1	0.00139968				Option A		
+True	0	2	0.00139968				Option A		
+True	-0.3779137	3	0.00139968				Option A		
+True	0	4	0.00139968				Option A		
+True	-0.3359232	5	0.00139968				Option A		
+True	0.314928	6	0.00139968				Option A		
+True	0	7	0.00139968				Option A		
+True	0.2729376	8	0.00139968				Option A		
+True	-0.2519424	9	0.00139968				Option A		
+True	0.2309472	10	0.00139968				Option A		
+True	-0.2519425	1	0.0008398083				Option A		
+True	0	2	0.0008398083				Option A		
+True	0	3	0.0008398083				Option A		
+True	0	1	0.05		das		Option A	assda	
+True	14.25	2	0.05		das		Option A	assda	
+True	0	3	0.05		das		Option A	assda	
+True	12.75	4	0.05		das		Option A	assda	
+True	0	5	0.05		das		Option A	assda	
+True	11.25	6	0.05		das		Option A	assda	
+True	-10.5	7	0.05		das		Option A	assda	
+True	0	8	0.05		das		Option A	assda	
+True	-8.999998	9	0.05		das		Option A	assda	
+True	8.249998	10	0.05		das		Option A	assda	
+True	-9	1	0.03		das		Option A	assda	
+True	8.550001	2	0.03		das		Option A	assda	
+True	-8.100001	3	0.03		das		Option A	assda	
+True	7.650002	4	0.03		das		Option A	assda	
+True	-7.200002	5	0.03		das		Option A	assda	
+True	6.750001	6	0.03		das		Option A	assda	
+True	-6.300002	7	0.03		das		Option A	assda	
+True	5.850001	8	0.03		das		Option A	assda	
+True	-5.400002	9	0.03		das		Option A	assda	
+True	4.950002	10	0.03		das		Option A	assda	
+True	-5.4	1	0.018		das		Option A	assda	
+True	5.13	2	0.018		das		Option A	assda	
+True	0	3	0.018		das		Option A	assda	
+True	4.59	4	0.018		das		Option A	assda	
+True	0	5	0.018		das		Option A	assda	
+True	-0.1666667	1	0.05				Option A		
+False	-0.1666667	0	0.05				Option A		
+True	0	1	0.05				Option A		
+True	-0.15	2	0.05				Option A		
+False	0	0	0.05				Option A		
+False	0	0	0.05				Option A		
+False	0	0	0.05				Option A		
+False	-4.25	0	0.05				Option A		
+True	4	1	0.05				Option A		
+True	0	2	0.05				Option A		

@@ -1,0 +1,1981 @@
+Detected	Degrees Per Second	Correct Count	Step Size	Subject Number	Height	Age	Sex	RA Name	Other
+True	0	1	0.05	test			Option A	Mayela	
+True	0	2	0.05	test			Option A	Mayela	
+False	-2.7	2	0.05	test			Option A	Mayela	
+False	0	2	0.05	test			Option A	Mayela	
+True	-2.4	3	0.05	test			Option A	Mayela	
+True	0	4	0.05	test			Option A	Mayela	
+False	0	4	0.05	test			Option A	Mayela	
+True	1.95	5	0.05	test			Option A	Mayela	
+True	0	6	0.05	test			Option A	Mayela	
+True	0	7	0.05	test			Option A	Mayela	
+True	0	1	0.03	test			Option A	Mayela	
+True	1.71	2	0.03	test			Option A	Mayela	
+True	0	3	0.03	test			Option A	Mayela	
+True	1.53	4	0.03	test			Option A	Mayela	
+True	-1.44	5	0.03	test			Option A	Mayela	
+True	1.35	6	0.03	test			Option A	Mayela	
+True	0	1	0.05				Option A		
+True	0	2	0.05				Option A		
+True	0	3	0.05				Option A		
+True	0	4	0.05				Option A		
+True	0	5	0.05				Option A		
+True	3	1	0.05	test	72	20	Option A	Eva	
+True	0	2	0.05	test	72	20	Option A	Eva	
+True	2.7	3	0.05	test	72	20	Option A	Eva	
+True	0	4	0.05	test	72	20	Option A	Eva	
+True	2.4	5	0.05	test	72	20	Option A	Eva	
+True	-2.25	6	0.05	test	72	20	Option A	Eva	
+True	3	1	0.05	1	73	18	Option A	Eva	
+True	-2.85	2	0.05	1	73	18	Option A	Eva	
+True	0	3	0.05	1	73	18	Option A	Eva	
+True	-2.55	4	0.05	1	73	18	Option A	Eva	
+True	0	5	0.05	1	73	18	Option A	Eva	
+True	0	6	0.05	1	73	18	Option A	Eva	
+True	0	7	0.05	1	73	18	Option A	Eva	
+True	-1.95	8	0.05	1	73	18	Option A	Eva	
+True	1.8	9	0.05	1	73	18	Option A	Eva	
+True	-1.65	10	0.05	1	73	18	Option A	Eva	
+True	0	1	0.03	1	73	18	Option A	Eva	
+True	0	2	0.03	1	73	18	Option A	Eva	
+True	1.62	3	0.03	1	73	18	Option A	Eva	
+True	-1.53	4	0.03	1	73	18	Option A	Eva	
+True	1.44	5	0.03	1	73	18	Option A	Eva	
+False	0	0	0.05	test	23	23	Option A	eva	
+True	-2.85	1	0.05	test	23	23	Option A	eva	
+True	2.7	2	0.05	test	23	23	Option A	eva	
+False	0	2	0.05	test	23	23	Option A	eva	
+True	0	3	0.05	test	23	23	Option A	eva	
+False	-2.25	3	0.05	test	23	23	Option A	eva	
+True	2.1	4	0.05	test	23	23	Option A	eva	
+True	0	5	0.05	test	23	23	Option A	eva	
+True	3	1	0.05	test	20	20	Option A	Eva	
+False	-2.85	1	0.05	test	20	20	Option A	Eva	
+True	0	1	0.05	2	65	20	Option A	Eva	
+True	0	2	0.05	2	65	20	Option A	Eva	
+True	-2.7	3	0.05	2	65	20	Option A	Eva	
+True	2.55	4	0.05	2	65	20	Option A	Eva	
+True	-2.4	5	0.05	2	65	20	Option A	Eva	
+True	2.25	6	0.05	2	65	20	Option A	Eva	
+True	0	7	0.05	2	65	20	Option A	Eva	
+True	0	8	0.05	2	65	20	Option A	Eva	
+True	0	9	0.05	2	65	20	Option A	Eva	
+True	0	10	0.05	2	65	20	Option A	Eva	
+True	-1.8	1	0.03	2	65	20	Option A	Eva	
+True	0	2	0.03	2	65	20	Option A	Eva	
+True	-1.62	3	0.03	2	65	20	Option A	Eva	
+True	0	4	0.03	2	65	20	Option A	Eva	
+True	-1.44	5	0.03	2	65	20	Option A	Eva	
+True	0	6	0.03	2	65	20	Option A	Eva	
+True	0	7	0.03	2	65	20	Option A	Eva	
+True	1.17	8	0.03	2	65	20	Option A	Eva	
+True	0	9	0.03	2	65	20	Option A	Eva	
+True	0.9900003	10	0.03	2	65	20	Option A	Eva	
+True	0	1	0.018	2	65	20	Option A	Eva	
+True	0	2	0.018	2	65	20	Option A	Eva	
+False	0	2	0.018	2	65	20	Option A	Eva	
+True	0	3	0.018	2	65	20	Option A	Eva	
+True	-0.864	4	0.018	2	65	20	Option A	Eva	
+True	0	5	0.018	2	65	20	Option A	Eva	
+True	0	6	0.018	2	65	20	Option A	Eva	
+True	0.7019999	7	0.018	2	65	20	Option A	Eva	
+True	-0.6479999	8	0.018	2	65	20	Option A	Eva	
+True	0	9	0.018	2	65	20	Option A	Eva	
+True	0	1	0.0108	2	65	20	Option A	Eva	
+True	0.6156	2	0.0108	2	65	20	Option A	Eva	
+True	0	3	0.0108	2	65	20	Option A	Eva	
+True	0.5508	4	0.0108	2	65	20	Option A	Eva	
+True	-0.5184	5	0.0108	2	65	20	Option A	Eva	
+True	0.486	6	0.0108	2	65	20	Option A	Eva	
+True	0	1	0.05	3	61	18	Option A	Eva	
+True	-2.85	2	0.05	3	61	18	Option A	Eva	
+True	2.7	3	0.05	3	61	18	Option A	Eva	
+True	-2.55	4	0.05	3	61	18	Option A	Eva	
+True	2.4	5	0.05	3	61	18	Option A	Eva	
+True	-2.25	6	0.05	3	61	18	Option A	Eva	
+True	0	7	0.05	3	61	18	Option A	Eva	
+True	-1.95	8	0.05	3	61	18	Option A	Eva	
+True	1.8	9	0.05	3	61	18	Option A	Eva	
+True	-1.65	10	0.05	3	61	18	Option A	Eva	
+True	0	1	0.03	3	61	18	Option A	Eva	
+True	0	2	0.03	3	61	18	Option A	Eva	
+True	0	3	0.03	3	61	18	Option A	Eva	
+True	0	4	0.03	3	61	18	Option A	Eva	
+True	0	5	0.03	3	61	18	Option A	Eva	
+True	-1.35	6	0.03	3	61	18	Option A	Eva	
+True	1.26	7	0.03	3	61	18	Option A	Eva	
+True	0	8	0.03	3	61	18	Option A	Eva	
+True	0	9	0.03	3	61	18	Option A	Eva	
+True	0	10	0.03	3	61	18	Option A	Eva	
+True	1.08	1	0.018	3	61	18	Option A	Eva	
+True	-1.026	2	0.018	3	61	18	Option A	Eva	
+True	0	3	0.018	3	61	18	Option A	Eva	
+True	0	4	0.018	3	61	18	Option A	Eva	
+True	0	5	0.018	3	61	18	Option A	Eva	
+True	0	6	0.018	3	61	18	Option A	Eva	
+True	0	7	0.018	3	61	18	Option A	Eva	
+True	0	8	0.018	3	61	18	Option A	Eva	
+True	0.6479999	9	0.018	3	61	18	Option A	Eva	
+True	0	10	0.018	3	61	18	Option A	Eva	
+True	0	1	0.0108	3	61	18	Option A	Eva	
+True	0	2	0.0108	3	61	18	Option A	Eva	
+True	0	3	0.0108	3	61	18	Option A	Eva	
+True	-0.5508	4	0.0108	3	61	18	Option A	Eva	
+True	0.5184	5	0.0108	3	61	18	Option A	Eva	
+False	-0.486	5	0.0108	3	61	18	Option A	Eva	
+True	0.4536	6	0.0108	3	61	18	Option A	Eva	
+True	-0.4212	7	0.0108	3	61	18	Option A	Eva	
+False	0	0	0.05				Option A		
+True	2	1	0.05	4	67	18	Option A	Wendy	no
+True	0	2	0.05	4	67	18	Option A	Wendy	no
+True	0	3	0.05	4	67	18	Option A	Wendy	no
+True	-1.7	4	0.05	4	67	18	Option A	Wendy	no
+True	0	5	0.05	4	67	18	Option A	Wendy	no
+True	0	6	0.05	4	67	18	Option A	Wendy	no
+True	0	7	0.05	4	67	18	Option A	Wendy	no
+True	-1.3	8	0.05	4	67	18	Option A	Wendy	no
+True	1.2	9	0.05	4	67	18	Option A	Wendy	no
+True	0	10	0.05	4	67	18	Option A	Wendy	no
+True	0	1	0.03	4	67	18	Option A	Wendy	no
+True	-1.14	2	0.03	4	67	18	Option A	Wendy	no
+True	1.08	3	0.03	4	67	18	Option A	Wendy	no
+True	0	4	0.03	4	67	18	Option A	Wendy	no
+True	0.9600002	5	0.03	4	67	18	Option A	Wendy	no
+True	0	6	0.03	4	67	18	Option A	Wendy	no
+True	0.8400002	7	0.03	4	67	18	Option A	Wendy	no
+True	0	8	0.03	4	67	18	Option A	Wendy	no
+True	0	9	0.03	4	67	18	Option A	Wendy	no
+True	0	10	0.03	4	67	18	Option A	Wendy	no
+False	0	0	0.018	4	67	18	Option A	Wendy	no
+True	-0.684	1	0.018	4	67	18	Option A	Wendy	no
+True	0	2	0.018	4	67	18	Option A	Wendy	no
+True	0	3	0.018	4	67	18	Option A	Wendy	no
+True	0.576	4	0.018	4	67	18	Option A	Wendy	no
+True	-0.54	5	0.018	4	67	18	Option A	Wendy	no
+False	0.5039999	5	0.018	4	67	18	Option A	Wendy	no
+True	0	6	0.018	4	67	18	Option A	Wendy	no
+True	0.4319999	7	0.018	4	67	18	Option A	Wendy	no
+False	0	7	0.018	4	67	18	Option A	Wendy	no
+True	0	1	0.0108	4	67	18	Option A	Wendy	no
+False	0	1	0.0108	4	67	18	Option A	Wendy	no
+True	0	2	0.0108	4	67	18	Option A	Wendy	no
+False	0	2	0.0108	4	67	18	Option A	Wendy	no
+True	0	3	0.0108	4	67	18	Option A	Wendy	no
+True	0	4	0.0108	4	67	18	Option A	Wendy	no
+True	0.3024	5	0.0108	4	67	18	Option A	Wendy	no
+True	-0.2808	6	0.0108	4	67	18	Option A	Wendy	no
+True	0.2592	7	0.0108	4	67	18	Option A	Wendy	no
+True	0	8	0.0108	4	67	18	Option A	Wendy	no
+False	0	0	0.006480001	4	67	18	Option A	Wendy	no
+True	0	1	0.006480001	4	67	18	Option A	Wendy	no
+True	0.23328	2	0.006480001	4	67	18	Option A	Wendy	no
+False	0	2	0.006480001	4	67	18	Option A	Wendy	no
+True	0	3	0.006480001	4	67	18	Option A	Wendy	no
+False	-0.1944	3	0.006480001	4	67	18	Option A	Wendy	no
+True	0.18144	4	0.006480001	4	67	18	Option A	Wendy	no
+True	0	5	0.006480001	4	67	18	Option A	Wendy	no
+False	0.15552	5	0.006480001	4	67	18	Option A	Wendy	no
+False	0	5	0.006480001	4	67	18	Option A	Wendy	no
+True	0.2592	1	0.006480001	4	67	18	Option A	Wendy	no
+True	-1.5	1	0.05	5	65	18	Option A	Wendy	no
+True	0	2	0.05	5	65	18	Option A	Wendy	no
+True	0	3	0.05	5	65	18	Option A	Wendy	no
+True	0	4	0.05	5	65	18	Option A	Wendy	no
+True	-1.2	5	0.05	5	65	18	Option A	Wendy	no
+True	1.125	6	0.05	5	65	18	Option A	Wendy	no
+True	0	7	0.05	5	65	18	Option A	Wendy	no
+True	0	8	0.05	5	65	18	Option A	Wendy	no
+True	0	9	0.05	5	65	18	Option A	Wendy	no
+True	0	10	0.05	5	65	18	Option A	Wendy	no
+True	-0.9	1	0.03	5	65	18	Option A	Wendy	no
+True	0.8550001	2	0.03	5	65	18	Option A	Wendy	no
+True	-0.8100001	3	0.03	5	65	18	Option A	Wendy	no
+True	0.7650002	4	0.03	5	65	18	Option A	Wendy	no
+True	-0.7200001	5	0.03	5	65	18	Option A	Wendy	no
+True	0.6750002	6	0.03	5	65	18	Option A	Wendy	no
+True	-0.6300002	7	0.03	5	65	18	Option A	Wendy	no
+True	0.5850002	8	0.03	5	65	18	Option A	Wendy	no
+True	-0.5400001	9	0.03	5	65	18	Option A	Wendy	no
+True	0.4950002	10	0.03	5	65	18	Option A	Wendy	no
+True	-0.54	1	0.018	5	65	18	Option A	Wendy	no
+False	0	1	0.018	5	65	18	Option A	Wendy	no
+True	0	2	0.018	5	65	18	Option A	Wendy	no
+False	0.459	2	0.018	5	65	18	Option A	Wendy	no
+True	-0.432	3	0.018	5	65	18	Option A	Wendy	no
+True	0	4	0.018	5	65	18	Option A	Wendy	no
+True	0	5	0.018	5	65	18	Option A	Wendy	no
+True	0	6	0.018	5	65	18	Option A	Wendy	no
+True	-0.3239999	7	0.018	5	65	18	Option A	Wendy	no
+True	0	8	0.018	5	65	18	Option A	Wendy	no
+True	-0.324	1	0.0108	5	65	18	Option A	Wendy	no
+True	0.3078	2	0.0108	5	65	18	Option A	Wendy	no
+True	0	3	0.0108	5	65	18	Option A	Wendy	no
+True	0.2754	4	0.0108	5	65	18	Option A	Wendy	no
+True	0	1	0.05	6	56 1/2	21	Option A	Wendy	no
+False	0	1	0.05	6	56 1/2	21	Option A	Wendy	no
+True	0	2	0.05	6	56 1/2	21	Option A	Wendy	no
+False	1.275	2	0.05	6	56 1/2	21	Option A	Wendy	no
+False	0	2	0.05	6	56 1/2	21	Option A	Wendy	no
+True	0	3	0.05	6	56 1/2	21	Option A	Wendy	no
+True	-1.05	4	0.05	6	56 1/2	21	Option A	Wendy	no
+True	0.9749999	5	0.05	6	56 1/2	21	Option A	Wendy	no
+True	-0.8999999	6	0.05	6	56 1/2	21	Option A	Wendy	no
+True	0	7	0.05	6	56 1/2	21	Option A	Wendy	no
+True	0	1	0.03	6	56 1/2	21	Option A	Wendy	no
+False	0	1	0.03	6	56 1/2	21	Option A	Wendy	no
+True	0	2	0.03	6	56 1/2	21	Option A	Wendy	no
+False	0.7650002	2	0.03	6	56 1/2	21	Option A	Wendy	no
+True	-0.7200001	3	0.03	6	56 1/2	21	Option A	Wendy	no
+False	0	3	0.03	6	56 1/2	21	Option A	Wendy	no
+False	0	3	0.03	6	56 1/2	21	Option A	Wendy	no
+True	0.5850002	4	0.03	6	56 1/2	21	Option A	Wendy	no
+True	0	5	0.03	6	56 1/2	21	Option A	Wendy	no
+False	0.4950002	5	0.03	6	56 1/2	21	Option A	Wendy	no
+True	-0.9	1	0.03	6	56 1/2	21	Option A	Wendy	no
+False	0.8550001	1	0.03	6	56 1/2	21	Option A	Wendy	no
+True	-0.8100001	2	0.03	6	56 1/2	21	Option A	Wendy	no
+True	0.7650002	3	0.03	6	56 1/2	21	Option A	Wendy	no
+True	-0.7200001	4	0.03	6	56 1/2	21	Option A	Wendy	no
+False	0.6750002	4	0.03	6	56 1/2	21	Option A	Wendy	no
+True	-0.6300002	5	0.03	6	56 1/2	21	Option A	Wendy	no
+True	0.5850002	6	0.03	6	56 1/2	21	Option A	Wendy	no
+False	0	6	0.03	6	56 1/2	21	Option A	Wendy	no
+True	0.4950002	7	0.03	6	56 1/2	21	Option A	Wendy	no
+True	0	1	0.018	6	56 1/2	21	Option A	Wendy	no
+False	0	1	0.018	6	56 1/2	21	Option A	Wendy	no
+False	0	1	0.018	6	56 1/2	21	Option A	Wendy	no
+False	0	1	0.018	6	56 1/2	21	Option A	Wendy	no
+True	0	2	0.018	6	56 1/2	21	Option A	Wendy	no
+False	0	2	0.018	6	56 1/2	21	Option A	Wendy	no
+True	0	3	0.018	6	56 1/2	21	Option A	Wendy	no
+True	0.351	4	0.018	6	56 1/2	21	Option A	Wendy	no
+False	-0.3239999	4	0.018	6	56 1/2	21	Option A	Wendy	no
+False	0.2969999	4	0.018	6	56 1/2	21	Option A	Wendy	no
+True	0	1	0.018	6	56 1/2	21	Option A	Wendy	no
+True	0	2	0.018	6	56 1/2	21	Option A	Wendy	no
+True	0	3	0.018	6	56 1/2	21	Option A	Wendy	no
+True	0.459	4	0.018	6	56 1/2	21	Option A	Wendy	no
+True	-0.432	5	0.018	6	56 1/2	21	Option A	Wendy	no
+False	0.405	5	0.018	6	56 1/2	21	Option A	Wendy	no
+True	-0.378	6	0.018	6	56 1/2	21	Option A	Wendy	no
+True	0.351	7	0.018	6	56 1/2	21	Option A	Wendy	no
+True	-1.5	1	0.05	7	74	18	Option A	Mayela	
+True	1.425	2	0.05	7	74	18	Option A	Mayela	
+True	0	3	0.05	7	74	18	Option A	Mayela	
+True	1.275	4	0.05	7	74	18	Option A	Mayela	
+True	-1.2	5	0.05	7	74	18	Option A	Mayela	
+True	0	6	0.05	7	74	18	Option A	Mayela	
+True	-1.05	7	0.05	7	74	18	Option A	Mayela	
+True	0	8	0.05	7	74	18	Option A	Mayela	
+True	-0.8999999	9	0.05	7	74	18	Option A	Mayela	
+True	0	10	0.05	7	74	18	Option A	Mayela	
+True	0	1	0.03	7	74	18	Option A	Mayela	
+True	0	2	0.03	7	74	18	Option A	Mayela	
+True	-0.8100001	3	0.03	7	74	18	Option A	Mayela	
+True	0.7650002	4	0.03	7	74	18	Option A	Mayela	
+True	-0.7200001	5	0.03	7	74	18	Option A	Mayela	
+True	0	6	0.03	7	74	18	Option A	Mayela	
+True	0	7	0.03	7	74	18	Option A	Mayela	
+False	0	7	0.03	7	74	18	Option A	Mayela	
+True	0	8	0.03	7	74	18	Option A	Mayela	
+True	0	9	0.03	7	74	18	Option A	Mayela	
+True	-0.54	1	0.018	7	74	18	Option A	Mayela	
+True	0	2	0.018	7	74	18	Option A	Mayela	
+False	-0.486	2	0.018	7	74	18	Option A	Mayela	
+True	0.459	3	0.018	7	74	18	Option A	Mayela	
+False	0	3	0.018	7	74	18	Option A	Mayela	
+False	0	3	0.018	7	74	18	Option A	Mayela	
+False	0	3	0.018	7	74	18	Option A	Mayela	
+False	0	3	0.018	7	74	18	Option A	Mayela	
+False	0	3	0.018	7	74	18	Option A	Mayela	
+False	0	3	0.018	7	74	18	Option A	Mayela	
+False	-0.54	0	0.018	7	74	18	Option A	Mayela	
+True	0	1	0.018	7	74	18	Option A	Mayela	
+True	-0.486	2	0.018	7	74	18	Option A	Mayela	
+True	0.459	3	0.018	7	74	18	Option A	Mayela	
+True	-0.432	4	0.018	7	74	18	Option A	Mayela	
+True	0.405	5	0.018	7	74	18	Option A	Mayela	
+True	0	6	0.018	7	74	18	Option A	Mayela	
+True	0	7	0.018	7	74	18	Option A	Mayela	
+True	-0.3239999	8	0.018	7	74	18	Option A	Mayela	
+True	0.2969999	9	0.018	7	74	18	Option A	Mayela	
+True	0	1	0.0108	7	74	18	Option A	Mayela	
+True	0	2	0.0108	7	74	18	Option A	Mayela	
+True	-0.2916	3	0.0108	7	74	18	Option A	Mayela	
+True	0.2754	4	0.0108	7	74	18	Option A	Mayela	
+True	-0.2592	5	0.0108	7	74	18	Option A	Mayela	
+True	0.243	6	0.0108	7	74	18	Option A	Mayela	
+True	-0.2268	7	0.0108	7	74	18	Option A	Mayela	
+True	0	8	0.0108	7	74	18	Option A	Mayela	
+True	-0.1944	9	0.0108	7	74	18	Option A	Mayela	
+True	0	10	0.0108	7	74	18	Option A	Mayela	
+True	0	1	0.006480001	7	74	18	Option A	Mayela	
+True	0.18468	2	0.006480001	7	74	18	Option A	Mayela	
+True	-0.17496	3	0.006480001	7	74	18	Option A	Mayela	
+True	0	4	0.006480001	7	74	18	Option A	Mayela	
+True	-0.15552	5	0.006480001	7	74	18	Option A	Mayela	
+True	0.1458	6	0.006480001	7	74	18	Option A	Mayela	
+False	0	6	0.006480001	7	74	18	Option A	Mayela	
+True	0.12636	7	0.006480001	7	74	18	Option A	Mayela	
+True	0	8	0.006480001	7	74	18	Option A	Mayela	
+True	0	9	0.006480001	7	74	18	Option A	Mayela	
+True	0	1	0.003888001	7	74	18	Option A	Mayela	
+True	0	2	0.003888001	8	74	18	Option A	Mayela	
+False	0	2	0.003888001	8	74	18	Option A	Mayela	
+False	0	2	0.003888001	8	74	18	Option A	Mayela	
+False	0	2	0.003888001	8	74	18	Option A	Mayela	
+False	0	2	0.003888001	8	74	18	Option A	Mayela	
+True	0	3	0.003888001	8	74	18	Option A	Mayela	
+True	0.07581601	4	0.003888001	8	74	18	Option A	Mayela	
+False	0	4	0.003888001	8	74	18	Option A	Mayela	
+False	0.064152	4	0.003888001	8	74	18	Option A	Mayela	
+True	-0.11664	1	0.003888001	8	74	18	Option A	Mayela	
+False	0.110808	1	0.003888001	8	74	18	Option A	Mayela	
+True	0	2	0.003888001	8	74	18	Option A	Mayela	
+False	0	2	0.003888001	8	74	18	Option A	Mayela	
+False	-0.093312	2	0.003888001	8	74	18	Option A	Mayela	
+True	0	3	0.003888001	8	74	18	Option A	Mayela	
+False	0	3	0.003888001	8	74	18	Option A	Mayela	
+True	0.07581601	4	0.003888001	8	74	18	Option A	Mayela	
+False	0	4	0.003888001	8	74	18	Option A	Mayela	
+False	0.064152	4	0.003888001	8	74	18	Option A	Mayela	
+True	0	1	0.003888001	8	74	18	Option A	Mayela	
+True	0.110808	2	0.003888001	8	74	18	Option A	Mayela	
+False	0	2	0.003888001	8	74	18	Option A	Mayela	
+False	0	2	0.003888001	8	74	18	Option A	Mayela	
+False	-0.093312	2	0.003888001	8	74	18	Option A	Mayela	
+True	0.08748	3	0.003888001	8	74	18	Option A	Mayela	
+True	-0.081648	4	0.003888001	8	74	18	Option A	Mayela	
+True	0.07581601	5	0.003888001	8	74	18	Option A	Mayela	
+False	-0.069984	5	0.003888001	8	74	18	Option A	Mayela	
+False	0.064152	5	0.003888001	8	74	18	Option A	Mayela	
+True	0	1	0.05	9	69	18	Option A	Mayela	
+True	0	2	0.05	9	69	18	Option A	Mayela	
+True	1.35	3	0.05	9	69	18	Option A	Mayela	
+True	0	4	0.05	9	69	18	Option A	Mayela	
+True	0	5	0.05	9	69	18	Option A	Mayela	
+True	-1.125	6	0.05	9	69	18	Option A	Mayela	
+True	1.05	7	0.05	9	69	18	Option A	Mayela	
+True	0	8	0.05	9	69	18	Option A	Mayela	
+True	0	9	0.05	9	69	18	Option A	Mayela	
+True	0	10	0.05	9	69	18	Option A	Mayela	
+True	0	1	0.03	9	69	18	Option A	Mayela	
+True	0	2	0.03	9	69	18	Option A	Mayela	
+True	0	3	0.03	9	69	18	Option A	Mayela	
+True	-0.7650002	4	0.03	9	69	18	Option A	Mayela	
+True	0	5	0.03	9	69	18	Option A	Mayela	
+True	-0.6750002	6	0.03	9	69	18	Option A	Mayela	
+True	0.6300002	7	0.03	9	69	18	Option A	Mayela	
+True	-0.5850002	8	0.03	9	69	18	Option A	Mayela	
+True	0	9	0.03	9	69	18	Option A	Mayela	
+True	-0.4950002	10	0.03	9	69	18	Option A	Mayela	
+True	0.54	1	0.018	9	69	18	Option A	Mayela	
+True	-0.513	2	0.018	9	69	18	Option A	Mayela	
+True	0.486	3	0.018	9	69	18	Option A	Mayela	
+True	0	4	0.018	9	69	18	Option A	Mayela	
+True	0	5	0.018	9	69	18	Option A	Mayela	
+True	0	6	0.018	9	69	18	Option A	Mayela	
+True	0	7	0.018	9	69	18	Option A	Mayela	
+True	-0.351	8	0.018	9	69	18	Option A	Mayela	
+False	0.3239999	8	0.018	9	69	18	Option A	Mayela	
+True	-0.2969999	9	0.018	9	69	18	Option A	Mayela	
+False	0.324	0	0.0108	9	69	18	Option A	Mayela	
+True	0	1	0.0108	9	69	18	Option A	Mayela	
+True	0.2916	2	0.0108	9	69	18	Option A	Mayela	
+True	-0.2754	3	0.0108	9	69	18	Option A	Mayela	
+True	0.2592	4	0.0108	9	69	18	Option A	Mayela	
+False	-0.243	4	0.0108	9	69	18	Option A	Mayela	
+True	0.2268	5	0.0108	9	69	18	Option A	Mayela	
+True	-0.2106	6	0.0108	9	69	18	Option A	Mayela	
+False	0	6	0.0108	9	69	18	Option A	Mayela	
+True	0	7	0.0108	9	69	18	Option A	Mayela	
+False	0.1944	0	0.006480001	9	69	18	Option A	Mayela	
+True	0	1	0.006480001	9	69	18	Option A	Mayela	
+True	0.17496	2	0.006480001	9	69	18	Option A	Mayela	
+True	0	3	0.006480001	9	69	18	Option A	Mayela	
+False	0	3	0.006480001	9	69	18	Option A	Mayela	
+False	0	3	0.006480001	9	69	18	Option A	Mayela	
+True	0	4	0.006480001	9	69	18	Option A	Mayela	
+True	0	5	0.006480001	9	69	18	Option A	Mayela	
+True	0.11664	6	0.006480001	9	69	18	Option A	Mayela	
+False	0	6	0.006480001	9	69	18	Option A	Mayela	
+False	0	0	0.006480001	9	69	18	Option A	Mayela	
+False	-0.18468	0	0.006480001	9	69	18	Option A	Mayela	
+False	0	0	0.006480001	9	69	18	Option A	Mayela	
+False	-0.16524	0	0.006480001	9	69	18	Option A	Mayela	
+True	0	1	0.05	test	61	20	Option A	Eva	
+True	0	2	0.05	test	61	20	Option A	Eva	
+True	0	3	0.05	test	61	20	Option A	Eva	
+True	0	4	0.05	test	61	20	Option A	Eva	
+False	0	0	0.05	9	65	18	Option A	Eva	
+True	0	1	0.05	9	65	18	Option A	Eva	
+True	-1.35	2	0.05	9	65	18	Option A	Eva	
+True	1.275	3	0.05	9	65	18	Option A	Eva	
+True	0	4	0.05	9	65	18	Option A	Eva	
+True	1.125	5	0.05	9	65	18	Option A	Eva	
+True	-1.05	6	0.05	9	65	18	Option A	Eva	
+True	0.9749999	7	0.05	9	65	18	Option A	Eva	
+True	0	8	0.05	9	65	18	Option A	Eva	
+True	0.8249998	9	0.05	9	65	18	Option A	Eva	
+True	-0.9	1	0.03	9	65	18	Option A	Eva	
+False	0.8550001	1	0.03	9	65	18	Option A	Eva	
+True	0	2	0.03	9	65	18	Option A	Eva	
+True	0.7650002	3	0.03	9	65	18	Option A	Eva	
+True	-0.7200001	4	0.03	9	65	18	Option A	Eva	
+True	0	5	0.03	9	65	18	Option A	Eva	
+True	0	6	0.03	9	65	18	Option A	Eva	
+True	0.5850002	7	0.03	9	65	18	Option A	Eva	
+True	0	8	0.03	9	65	18	Option A	Eva	
+False	0.4950002	8	0.03	9	65	18	Option A	Eva	
+True	0	1	0.018	9	65	18	Option A	Eva	
+False	0	1	0.018	9	65	18	Option A	Eva	
+False	0	1	0.018	9	65	18	Option A	Eva	
+True	0	2	0.018	9	65	18	Option A	Eva	
+True	0	3	0.018	9	65	18	Option A	Eva	
+True	0.405	4	0.018	9	65	18	Option A	Eva	
+True	-0.378	5	0.018	9	65	18	Option A	Eva	
+True	0.351	6	0.018	9	65	18	Option A	Eva	
+False	0	6	0.018	9	65	18	Option A	Eva	
+True	0.2969999	7	0.018	9	65	18	Option A	Eva	
+False	0	0	0.0108	9	65	18	Option A	Eva	
+False	0.3078	0	0.0108	9	65	18	Option A	Eva	
+False	-0.2916	0	0.0108	9	65	18	Option A	Eva	
+True	0	1	0.0108	9	65	18	Option A	Eva	
+True	-0.2592	2	0.0108	9	65	18	Option A	Eva	
+True	0	3	0.0108	9	65	18	Option A	Eva	
+False	0	0	0.05	11	64	18	Option A	Eva	
+False	0	0	0.05	11	64	18	Option A	Eva	
+True	1.35	1	0.05	11	64	18	Option A	Eva	
+False	-1.275	1	0.05	11	64	18	Option A	Eva	
+True	1.2	2	0.05	11	64	18	Option A	Eva	
+True	0	3	0.05	11	64	18	Option A	Eva	
+True	0	4	0.05	11	64	18	Option A	Eva	
+False	-0.9749999	4	0.05	11	64	18	Option A	Eva	
+True	0.8999999	5	0.05	11	64	18	Option A	Eva	
+False	-0.8249998	5	0.05	11	64	18	Option A	Eva	
+True	0	1	0.05	11	64	18	Option A	Eva	
+True	-1.425	2	0.05	11	64	18	Option A	Eva	
+True	0	3	0.05	11	64	18	Option A	Eva	
+True	-1.275	4	0.05	11	64	18	Option A	Eva	
+True	0	5	0.05	11	64	18	Option A	Eva	
+False	0	5	0.05	11	64	18	Option A	Eva	
+True	0	6	0.05	11	64	18	Option A	Eva	
+True	0	7	0.05	11	64	18	Option A	Eva	
+True	0.8999999	8	0.05	11	64	18	Option A	Eva	
+True	0	9	0.05	11	64	18	Option A	Eva	
+True	0	1	0.03	11	64	18	Option A	Eva	
+False	-0.8550001	1	0.03	11	64	18	Option A	Eva	
+True	0.8100001	2	0.03	11	64	18	Option A	Eva	
+False	0	2	0.03	11	64	18	Option A	Eva	
+True	0.7200001	3	0.03	11	64	18	Option A	Eva	
+False	-0.6750002	3	0.03	11	64	18	Option A	Eva	
+True	0	4	0.03	11	64	18	Option A	Eva	
+True	-0.5850002	5	0.03	11	64	18	Option A	Eva	
+False	0.5400001	5	0.03	11	64	18	Option A	Eva	
+False	-0.4950002	5	0.03	11	64	18	Option A	Eva	
+True	0	1	0.05	12	66	18	Option A	Eva	
+True	0	2	0.05	12	66	18	Option A	Eva	
+True	0	3	0.05	12	66	18	Option A	Eva	
+True	1.275	4	0.05	12	66	18	Option A	Eva	
+True	0	5	0.05	12	66	18	Option A	Eva	
+True	1.125	6	0.05	12	66	18	Option A	Eva	
+True	-1.05	7	0.05	12	66	18	Option A	Eva	
+True	0.9749999	8	0.05	12	66	18	Option A	Eva	
+True	0	9	0.05	12	66	18	Option A	Eva	
+True	0	10	0.05	12	66	18	Option A	Eva	
+True	0	1	0.03	12	66	18	Option A	Eva	
+True	0.8550001	2	0.03	12	66	18	Option A	Eva	
+True	-0.8100001	3	0.03	12	66	18	Option A	Eva	
+True	0	4	0.03	12	66	18	Option A	Eva	
+True	-0.7200001	5	0.03	12	66	18	Option A	Eva	
+True	0.6750002	6	0.03	12	66	18	Option A	Eva	
+True	0	7	0.03	12	66	18	Option A	Eva	
+True	0	8	0.03	12	66	18	Option A	Eva	
+True	-0.5400001	9	0.03	12	66	18	Option A	Eva	
+True	0.4950002	10	0.03	12	66	18	Option A	Eva	
+True	0	1	0.018	12	66	18	Option A	Eva	
+True	0	2	0.018	12	66	18	Option A	Eva	
+True	-0.486	3	0.018	12	66	18	Option A	Eva	
+True	0.459	4	0.018	12	66	18	Option A	Eva	
+True	-0.432	5	0.018	12	66	18	Option A	Eva	
+True	0	6	0.018	12	66	18	Option A	Eva	
+True	-0.378	7	0.018	12	66	18	Option A	Eva	
+True	0.351	8	0.018	12	66	18	Option A	Eva	
+False	-0.3239999	8	0.018	12	66	18	Option A	Eva	
+True	0	9	0.018	12	66	18	Option A	Eva	
+True	-0.324	1	0.0108	12	66	18	Option A	Eva	
+True	0.3078	2	0.0108	12	66	18	Option A	Eva	
+True	-0.2916	3	0.0108	12	66	18	Option A	Eva	
+False	0.2754	3	0.0108	12	66	18	Option A	Eva	
+False	0	3	0.0108	12	66	18	Option A	Eva	
+True	-1.5	1	0.05	13	70	19	Option A	Eva	
+True	1.425	2	0.05	13	70	19	Option A	Eva	
+True	0	3	0.05	13	70	19	Option A	Eva	
+True	1.275	4	0.05	13	70	19	Option A	Eva	
+True	-1.2	5	0.05	13	70	19	Option A	Eva	
+True	1.125	6	0.05	13	70	19	Option A	Eva	
+True	-1.05	7	0.05	13	70	19	Option A	Eva	
+True	0	8	0.05	13	70	19	Option A	Eva	
+True	-0.8999999	9	0.05	13	70	19	Option A	Eva	
+False	0	9	0.05	13	70	19	Option A	Eva	
+True	-0.9	1	0.03	13	70	19	Option A	Eva	
+True	0	2	0.03	13	70	19	Option A	Eva	
+True	-0.8100001	3	0.03	13	70	19	Option A	Eva	
+True	0	4	0.03	13	70	19	Option A	Eva	
+True	0	5	0.03	13	70	19	Option A	Eva	
+False	0	5	0.03	13	70	19	Option A	Eva	
+True	0	6	0.03	13	70	19	Option A	Eva	
+True	0.5850002	7	0.03	13	70	19	Option A	Eva	
+True	-0.5400001	8	0.03	13	70	19	Option A	Eva	
+True	0	9	0.03	13	70	19	Option A	Eva	
+True	0	1	0.018	13	70	19	Option A	Eva	
+False	0.513	1	0.018	13	70	19	Option A	Eva	
+True	-0.486	2	0.018	13	70	19	Option A	Eva	
+False	0	2	0.018	13	70	19	Option A	Eva	
+True	1.5	1	0.05	Test	9999	9999	Option A	V	999
+True	-1.425	2	0.05	Test	9999	9999	Option A	V	999
+True	0	3	0.05	Test	9999	9999	Option A	V	999
+True	0	4	0.05	Test	9999	9999	Option A	V	999
+True	0	5	0.05	Test	9999	9999	Option A	V	999
+True	0	6	0.05	Test	9999	9999	Option A	V	999
+True	0	7	0.05	Test	9999	9999	Option A	V	999
+True	0	8	0.05	Test	9999	9999	Option A	V	999
+True	0.8999999	9	0.05	Test	9999	9999	Option A	V	999
+True	0	10	0.05	Test	9999	9999	Option A	V	999
+True	0	1	0.03	Test	9999	9999	Option A	V	999
+True	-0.8550001	2	0.03	Test	9999	9999	Option A	V	999
+True	0	3	0.03	Test	9999	9999	Option A	V	999
+True	0	4	0.03	Test	9999	9999	Option A	V	999
+True	0	5	0.03	Test	9999	9999	Option A	V	999
+True	0	6	0.03	Test	9999	9999	Option A	V	999
+True	0	7	0.03	Test	9999	9999	Option A	V	999
+True	-0.5850002	8	0.03	Test	9999	9999	Option A	V	999
+True	0.5400001	9	0.03	Test	9999	9999	Option A	V	999
+True	0	10	0.03	Test	9999	9999	Option A	V	999
+True	0.54	1	0.018	Test	9999	9999	Option A	V	999
+True	-0.513	2	0.018	Test	9999	9999	Option A	V	999
+True	0	3	0.018	Test	9999	9999	Option A	V	999
+True	-0.459	4	0.018	Test	9999	9999	Option A	V	999
+True	0	5	0.018	Test	9999	9999	Option A	V	999
+True	0	6	0.018	Test	9999	9999	Option A	V	999
+True	0.378	7	0.018	Test	9999	9999	Option A	V	999
+True	0	8	0.018	Test	9999	9999	Option A	V	999
+True	0.3239999	9	0.018	Test	9999	9999	Option A	V	999
+True	-0.2969999	10	0.018	Test	9999	9999	Option A	V	999
+True	0.324	1	0.0108	Test	9999	9999	Option A	V	999
+True	0	2	0.0108	Test	9999	9999	Option A	V	999
+True	0.2916	3	0.0108	Test	9999	9999	Option A	V	999
+True	0	4	0.0108	Test	9999	9999	Option A	V	999
+True	0	5	0.0108	Test	9999	9999	Option A	V	999
+True	-0.243	6	0.0108	Test	9999	9999	Option A	V	999
+False	0	6	0.0108	Test	9999	9999	Option A	V	999
+True	0	7	0.0108	Test	9999	9999	Option A	V	999
+True	0.1944	8	0.0108	Test	9999	9999	Option A	V	999
+True	-0.1782	9	0.0108	Test	9999	9999	Option A	V	999
+True	0.1944	1	0.006480001	Test	9999	9999	Option A	V	999
+True	0	2	0.006480001	Test	9999	9999	Option A	V	999
+True	0.17496	3	0.006480001	Test	9999	9999	Option A	V	999
+True	-0.16524	4	0.006480001	Test	9999	9999	Option A	V	999
+True	0.15552	5	0.006480001	Test	9999	9999	Option A	V	999
+False	0	5	0.006480001	Test	9999	9999	Option A	V	999
+True	0.13608	6	0.006480001	Test	9999	9999	Option A	V	999
+True	0	7	0.006480001	Test	9999	9999	Option A	V	999
+False	0.11664	7	0.006480001	Test	9999	9999	Option A	V	999
+True	0	8	0.006480001	Test	9999	9999	Option A	V	999
+True	0	1	0.003888001	Test	9999	9999	Option A	V	999
+False	0	1	0.003888001	Test	9999	9999	Option A	V	999
+False	0	1	0.003888001	Test	9999	9999	Option A	V	999
+True	0	2	0.003888001	Test	9999	9999	Option A	V	999
+True	0	3	0.003888001	Test	9999	9999	Option A	V	999
+False	0	3	0.003888001	Test	9999	9999	Option A	V	999
+False	0	3	0.003888001	Test	9999	9999	Option A	V	999
+False	0	3	0.003888001	Test	9999	9999	Option A	V	999
+True	0.069984	4	0.003888001	Test	9999	9999	Option A	V	999
+False	0	4	0.003888001	Test	9999	9999	Option A	V	999
+False	0	0	0.003888001	Test	9999	9999	Option A	V	999
+True	0	1	0.003888001	Test	9999	9999	Option A	V	999
+False	0	1	0.003888001	Test	9999	9999	Option A	V	999
+True	0	2	0.003888001	Test	9999	9999	Option A	V	999
+True	0	3	0.003888001	Test	9999	9999	Option A	V	999
+True	0	4	0.003888001	Test	9999	9999	Option A	V	999
+False	0.081648	4	0.003888001	Test	9999	9999	Option A	V	999
+True	0	5	0.003888001	Test	9999	9999	Option A	V	999
+True	0.069984	6	0.003888001	Test	9999	9999	Option A	V	999
+False	-0.064152	6	0.003888001	Test	9999	9999	Option A	V	999
+True	0.11664	1	0.003888001	Test	9999	9999	Option A	V	999
+True	0	2	0.003888001	Test	9999	9999	Option A	V	999
+False	0	2	0.003888001	Test	9999	9999	Option A	V	999
+False	-0.099144	2	0.003888001	Test	9999	9999	Option A	V	999
+True	0.093312	3	0.003888001	Test	9999	9999	Option A	V	999
+False	-0.08748	3	0.003888001	Test	9999	9999	Option A	V	999
+True	0	4	0.003888001	Test	9999	9999	Option A	V	999
+True	0	5	0.003888001	Test	9999	9999	Option A	V	999
+False	0	5	0.003888001	Test	9999	9999	Option A	V	999
+False	0	5	0.003888001	Test	9999	9999	Option A	V	999
+True	0	1	0.003888001	Test	9999	9999	Option A	V	999
+False	0	1	0.003888001	Test	9999	9999	Option A	V	999
+True	0	2	0.003888001	Test	9999	9999	Option A	V	999
+True	0	3	0.003888001	Test	9999	9999	Option A	V	999
+True	0	4	0.003888001	Test	9999	9999	Option A	V	999
+False	-0.08748	4	0.003888001	Test	9999	9999	Option A	V	999
+True	0.081648	5	0.003888001	Test	9999	9999	Option A	V	999
+False	-0.07581601	5	0.003888001	Test	9999	9999	Option A	V	999
+True	0.069984	6	0.003888001	Test	9999	9999	Option A	V	999
+False	0	6	0.003888001	Test	9999	9999	Option A	V	999
+True	1	1	0.05	14	61	18	Option A	Mayela	
+True	-0.95	2	0.05	14	61	18	Option A	Mayela	
+False	0.9	2	0.05	14	61	18	Option A	Mayela	
+True	0	3	0.05	14	61	18	Option A	Mayela	
+True	0	4	0.05	14	61	18	Option A	Mayela	
+True	-0.7499999	5	0.05	14	61	18	Option A	Mayela	
+True	0.6999999	6	0.05	14	61	18	Option A	Mayela	
+False	-0.6499999	6	0.05	14	61	18	Option A	Mayela	
+False	0	6	0.05	14	61	18	Option A	Mayela	
+True	0	7	0.05	14	61	18	Option A	Mayela	
+False	0	0	0.03	14	61	18	Option A	Mayela	
+False	0	0	0.03	14	61	18	Option A	Mayela	
+True	0	1	0.03	14	61	18	Option A	Mayela	
+True	-0.5100001	2	0.03	14	61	18	Option A	Mayela	
+False	0.4800001	2	0.03	14	61	18	Option A	Mayela	
+False	0	2	0.03	14	61	18	Option A	Mayela	
+True	0	3	0.03	14	61	18	Option A	Mayela	
+False	-0.3900001	3	0.03	14	61	18	Option A	Mayela	
+False	0.3600001	3	0.03	14	61	18	Option A	Mayela	
+True	-0.3300001	4	0.03	14	61	18	Option A	Mayela	
+False	0	0	0.03	14	61	18	Option A	Mayela	
+True	-0.5700001	1	0.03	14	61	18	Option A	Mayela	
+True	0	2	0.03	14	61	18	Option A	Mayela	
+True	-0.5100001	3	0.03	14	61	18	Option A	Mayela	
+True	0	4	0.03	14	61	18	Option A	Mayela	
+True	-0.4500001	5	0.03	14	61	18	Option A	Mayela	
+True	0	6	0.03	14	61	18	Option A	Mayela	
+True	0	7	0.03	14	61	18	Option A	Mayela	
+True	0	8	0.03	14	61	18	Option A	Mayela	
+True	0	9	0.03	14	61	18	Option A	Mayela	
+False	0	0	0.018	14	61	18	Option A	Mayela	
+True	0	1	0.018	14	61	18	Option A	Mayela	
+True	0	2	0.018	14	61	18	Option A	Mayela	
+True	-0.306	3	0.018	14	61	18	Option A	Mayela	
+True	0	4	0.018	14	61	18	Option A	Mayela	
+True	0	5	0.018	14	61	18	Option A	Mayela	
+True	0.252	6	0.018	14	61	18	Option A	Mayela	
+False	0	6	0.018	14	61	18	Option A	Mayela	
+True	0	7	0.018	14	61	18	Option A	Mayela	
+True	0	8	0.018	14	61	18	Option A	Mayela	
+True	0	1	0.0108	14	61	18	Option A	Mayela	
+True	-0.2052	2	0.0108	14	61	18	Option A	Mayela	
+True	0.1944	3	0.0108	14	61	18	Option A	Mayela	
+True	-0.1836	4	0.0108	14	61	18	Option A	Mayela	
+True	0	5	0.0108	14	61	18	Option A	Mayela	
+True	0	6	0.0108	14	61	18	Option A	Mayela	
+False	0.1512	6	0.0108	14	61	18	Option A	Mayela	
+False	0	6	0.0108	14	61	18	Option A	Mayela	
+False	0	6	0.0108	14	61	18	Option A	Mayela	
+False	0	6	0.0108	14	61	18	Option A	Mayela	
+False	0	0	0.0108	14	61	18	Option A	Mayela	
+True	-0.2052	1	0.0108	14	61	18	Option A	Mayela	
+False	0.1944	1	0.0108	14	61	18	Option A	Mayela	
+False	0	1	0.0108	14	61	18	Option A	Mayela	
+False	0.1728	1	0.0108	14	61	18	Option A	Mayela	
+False	0	1	0.0108	14	61	18	Option A	Mayela	
+True	0.1512	2	0.0108	14	61	18	Option A	Mayela	
+False	0	2	0.0108	14	61	18	Option A	Mayela	
+False	0.1296	2	0.0108	14	61	18	Option A	Mayela	
+True	-1	1	0.05	15	69	20	Option A	Mayela	
+False	0	1	0.05	15	69	20	Option A	Mayela	
+True	0	2	0.05	15	69	20	Option A	Mayela	
+True	0.85	3	0.05	15	69	20	Option A	Mayela	
+False	-0.8	3	0.05	15	69	20	Option A	Mayela	
+False	0	3	0.05	15	69	20	Option A	Mayela	
+False	-0.6999999	3	0.05	15	69	20	Option A	Mayela	
+False	0	3	0.05	15	69	20	Option A	Mayela	
+True	0	4	0.05	15	69	20	Option A	Mayela	
+False	0	4	0.05	15	69	20	Option A	Mayela	
+True	-1	1	0.05	15	69	20	Option A	Mayela	
+True	0.95	2	0.05	15	69	20	Option A	Mayela	
+True	0	3	0.05	15	69	20	Option A	Mayela	
+True	0.85	4	0.05	15	69	20	Option A	Mayela	
+True	0	5	0.05	15	69	20	Option A	Mayela	
+True	0	6	0.05	15	69	20	Option A	Mayela	
+True	-0.6999999	7	0.05	15	69	20	Option A	Mayela	
+True	0	8	0.05	15	69	20	Option A	Mayela	
+True	0	9	0.05	15	69	20	Option A	Mayela	
+True	0	10	0.05	15	69	20	Option A	Mayela	
+True	0	1	0.03	15	69	20	Option A	Mayela	
+True	0	2	0.03	15	69	20	Option A	Mayela	
+True	0	3	0.03	15	69	20	Option A	Mayela	
+True	0.5100001	4	0.03	15	69	20	Option A	Mayela	
+True	0	5	0.03	15	69	20	Option A	Mayela	
+True	0.4500001	6	0.03	15	69	20	Option A	Mayela	
+True	0	7	0.03	15	69	20	Option A	Mayela	
+True	0	8	0.03	15	69	20	Option A	Mayela	
+True	-0.3600001	9	0.03	15	69	20	Option A	Mayela	
+True	0.3300001	10	0.03	15	69	20	Option A	Mayela	
+True	0	1	0.018	15	69	20	Option A	Mayela	
+True	0.342	2	0.018	15	69	20	Option A	Mayela	
+True	-0.324	3	0.018	15	69	20	Option A	Mayela	
+False	0	3	0.018	15	69	20	Option A	Mayela	
+True	-0.288	4	0.018	15	69	20	Option A	Mayela	
+True	0	5	0.018	15	69	20	Option A	Mayela	
+True	0	6	0.018	15	69	20	Option A	Mayela	
+True	0.234	7	0.018	15	69	20	Option A	Mayela	
+True	0	8	0.018	15	69	20	Option A	Mayela	
+False	0	8	0.018	15	69	20	Option A	Mayela	
+True	0	1	0.0108	15	69	20	Option A	Mayela	
+False	0	1	0.0108	15	69	20	Option A	Mayela	
+True	0	2	0.0108	15	69	20	Option A	Mayela	
+True	0	3	0.0108	15	69	20	Option A	Mayela	
+True	-0.1728	4	0.0108	15	69	20	Option A	Mayela	
+True	0.162	5	0.0108	15	69	20	Option A	Mayela	
+True	0	6	0.0108	15	69	20	Option A	Mayela	
+False	0.1404	6	0.0108	15	69	20	Option A	Mayela	
+False	0	6	0.0108	15	69	20	Option A	Mayela	
+False	0.1188	6	0.0108	15	69	20	Option A	Mayela	
+True	1	1	0.05	16	67	18	Option A	Mayela	
+False	0	1	0.05	16	67	18	Option A	Mayela	
+True	0	2	0.05	16	67	18	Option A	Mayela	
+True	0	3	0.05	16	67	18	Option A	Mayela	
+True	0	4	0.05	16	67	18	Option A	Mayela	
+True	0	5	0.05	16	67	18	Option A	Mayela	
+False	0	5	0.05	16	67	18	Option A	Mayela	
+True	-0.6499999	6	0.05	16	67	18	Option A	Mayela	
+True	0.5999999	7	0.05	16	67	18	Option A	Mayela	
+False	-0.5499999	7	0.05	16	67	18	Option A	Mayela	
+True	0.6	1	0.03	16	67	18	Option A	Mayela	
+False	-0.5700001	1	0.03	16	67	18	Option A	Mayela	
+True	0.5400001	2	0.03	16	67	18	Option A	Mayela	
+True	-0.5100001	3	0.03	16	67	18	Option A	Mayela	
+False	0.4800001	3	0.03	16	67	18	Option A	Mayela	
+False	0	3	0.03	16	67	18	Option A	Mayela	
+True	0	4	0.03	16	67	18	Option A	Mayela	
+True	-0.3900001	5	0.03	16	67	18	Option A	Mayela	
+False	0	5	0.03	16	67	18	Option A	Mayela	
+False	-0.3300001	5	0.03	16	67	18	Option A	Mayela	
+True	0	1	0.03	16	67	18	Option A	Mayela	
+True	-0.5700001	2	0.03	16	67	18	Option A	Mayela	
+True	0	3	0.03	16	67	18	Option A	Mayela	
+True	-0.5100001	4	0.03	16	67	18	Option A	Mayela	
+False	0	4	0.03	16	67	18	Option A	Mayela	
+False	-0.4500001	4	0.03	16	67	18	Option A	Mayela	
+True	0	5	0.03	16	67	18	Option A	Mayela	
+False	0	5	0.03	16	67	18	Option A	Mayela	
+False	0	5	0.03	16	67	18	Option A	Mayela	
+False	-0.3300001	5	0.03	16	67	18	Option A	Mayela	
+True	0.6	1	0.03	16	67	18	Option A	Mayela	
+True	0	2	0.03	16	67	18	Option A	Mayela	
+True	0	3	0.03	16	67	18	Option A	Mayela	
+False	0	3	0.03	16	67	18	Option A	Mayela	
+True	0	4	0.03	16	67	18	Option A	Mayela	
+False	0	4	0.03	16	67	18	Option A	Mayela	
+True	0.4200001	5	0.03	16	67	18	Option A	Mayela	
+True	0	6	0.03	16	67	18	Option A	Mayela	
+True	0.3600001	7	0.03	16	67	18	Option A	Mayela	
+False	-0.3300001	7	0.03	16	67	18	Option A	Mayela	
+False	0	0	0.018	16	67	18	Option A	Mayela	
+True	-0.342	1	0.018	16	67	18	Option A	Mayela	
+True	0	2	0.018	16	67	18	Option A	Mayela	
+True	-0.306	3	0.018	16	67	18	Option A	Mayela	
+False	0	3	0.018	16	67	18	Option A	Mayela	
+True	0	4	0.018	16	67	18	Option A	Mayela	
+False	0.252	4	0.018	16	67	18	Option A	Mayela	
+True	-0.234	5	0.018	16	67	18	Option A	Mayela	
+False	0.216	5	0.018	16	67	18	Option A	Mayela	
+True	0	6	0.018	16	67	18	Option A	Mayela	
+True	0.36	1	0.018	16	67	18	Option A	Mayela	
+True	0	2	0.018	16	67	18	Option A	Mayela	
+True	0	3	0.018	16	67	18	Option A	Mayela	
+True	0	1	0.05	17	66	18	Option A	Mayela	
+True	0	2	0.05	17	66	18	Option A	Mayela	
+True	0.9	3	0.05	17	66	18	Option A	Mayela	
+True	0	4	0.05	17	66	18	Option A	Mayela	
+True	0.8	5	0.05	17	66	18	Option A	Mayela	
+True	0	6	0.05	17	66	18	Option A	Mayela	
+True	0	7	0.05	17	66	18	Option A	Mayela	
+True	-0.6499999	8	0.05	17	66	18	Option A	Mayela	
+True	0.5999999	9	0.05	17	66	18	Option A	Mayela	
+True	-0.5499999	10	0.05	17	66	18	Option A	Mayela	
+True	0	1	0.03	17	66	18	Option A	Mayela	
+True	-0.5700001	2	0.03	17	66	18	Option A	Mayela	
+True	0.5400001	3	0.03	17	66	18	Option A	Mayela	
+False	0	3	0.03	17	66	18	Option A	Mayela	
+True	0.4800001	4	0.03	17	66	18	Option A	Mayela	
+False	0	4	0.03	17	66	18	Option A	Mayela	
+False	0	4	0.03	17	66	18	Option A	Mayela	
+True	-0.3900001	5	0.03	17	66	18	Option A	Mayela	
+True	0	6	0.03	17	66	18	Option A	Mayela	
+True	-0.3300001	7	0.03	17	66	18	Option A	Mayela	
+True	0	1	0.018	17	66	18	Option A	Mayela	
+True	-0.342	2	0.018	17	66	18	Option A	Mayela	
+False	0	2	0.018	17	66	18	Option A	Mayela	
+True	-0.306	3	0.018	17	66	18	Option A	Mayela	
+True	0.288	4	0.018	17	66	18	Option A	Mayela	
+False	0	4	0.018	17	66	18	Option A	Mayela	
+True	0	5	0.018	17	66	18	Option A	Mayela	
+False	0	5	0.018	17	66	18	Option A	Mayela	
+True	0.216	6	0.018	17	66	18	Option A	Mayela	
+False	0	6	0.018	17	66	18	Option A	Mayela	
+False	0	0	0.018	17	66	18	Option A	Mayela	
+True	0	1	0.018	17	66	18	Option A	Mayela	
+True	0.324	2	0.018	17	66	18	Option A	Mayela	
+False	0	2	0.018	17	66	18	Option A	Mayela	
+True	0	3	0.018	17	66	18	Option A	Mayela	
+True	0	4	0.018	17	66	18	Option A	Mayela	
+False	0	4	0.018	17	66	18	Option A	Mayela	
+True	-0.234	5	0.018	17	66	18	Option A	Mayela	
+True	0.216	6	0.018	17	66	18	Option A	Mayela	
+True	-0.198	7	0.018	17	66	18	Option A	Mayela	
+False	0	0	0.0108	17	66	18	Option A	Mayela	
+False	0	0	0.0108	17	66	18	Option A	Mayela	
+False	0	0	0.0108	17	66	18	Option A	Mayela	
+True	0	1	0.0108	17	66	18	Option A	Mayela	
+True	0.1728	2	0.0108	17	66	18	Option A	Mayela	
+False	0	2	0.0108	17	66	18	Option A	Mayela	
+True	0	3	0.0108	17	66	18	Option A	Mayela	
+True	-0.1404	4	0.0108	17	66	18	Option A	Mayela	
+False	0.1296	4	0.0108	17	66	18	Option A	Mayela	
+False	0	4	0.0108	17	66	18	Option A	Mayela	
+False	0	0	0.0108	17	66	18	Option A	Mayela	
+True	0	1	0.0108	17	66	18	Option A	Mayela	
+False	0	1	0.0108	17	66	18	Option A	Mayela	
+True	-1	1	0.05	18	67	18	Option A	Mayela	
+True	0.95	2	0.05	18	67	18	Option A	Mayela	
+True	-0.9	3	0.05	18	67	18	Option A	Mayela	
+True	0.85	4	0.05	18	67	18	Option A	Mayela	
+True	0	5	0.05	18	67	18	Option A	Mayela	
+True	0	6	0.05	18	67	18	Option A	Mayela	
+True	0	7	0.05	18	67	18	Option A	Mayela	
+True	0.6499999	8	0.05	18	67	18	Option A	Mayela	
+True	0	9	0.05	18	67	18	Option A	Mayela	
+False	0	9	0.05	18	67	18	Option A	Mayela	
+True	0	1	0.03	18	67	18	Option A	Mayela	
+True	0	2	0.03	18	67	18	Option A	Mayela	
+True	-0.5400001	3	0.03	18	67	18	Option A	Mayela	
+True	0.5100001	4	0.03	18	67	18	Option A	Mayela	
+True	0	5	0.03	18	67	18	Option A	Mayela	
+True	0.4500001	6	0.03	18	67	18	Option A	Mayela	
+False	0	6	0.03	18	67	18	Option A	Mayela	
+True	0	7	0.03	18	67	18	Option A	Mayela	
+False	-0.3600001	7	0.03	18	67	18	Option A	Mayela	
+False	0	7	0.03	18	67	18	Option A	Mayela	
+True	-0.36	1	0.018	18	67	18	Option A	Mayela	
+False	0.342	1	0.018	18	67	18	Option A	Mayela	
+True	-0.324	2	0.018	18	67	18	Option A	Mayela	
+True	0.306	3	0.018	18	67	18	Option A	Mayela	
+True	-0.288	4	0.018	18	67	18	Option A	Mayela	
+False	0.27	4	0.018	18	67	18	Option A	Mayela	
+True	-0.252	5	0.018	18	67	18	Option A	Mayela	
+False	0	5	0.018	18	67	18	Option A	Mayela	
+True	0	6	0.018	18	67	18	Option A	Mayela	
+True	0	7	0.018	18	67	18	Option A	Mayela	
+True	-0.216	1	0.0108	18	67	18	Option A	Mayela	
+False	0	1	0.0108	18	67	18	Option A	Mayela	
+False	-0.1944	1	0.0108	18	67	18	Option A	Mayela	
+True	0.1836	2	0.0108	18	67	18	Option A	Mayela	
+False	0	2	0.0108	18	67	18	Option A	Mayela	
+True	0	3	0.0108	18	67	18	Option A	Mayela	
+True	-0.1512	4	0.0108	18	67	18	Option A	Mayela	
+True	0	5	0.0108	18	67	18	Option A	Mayela	
+False	-0.1296	5	0.0108	18	67	18	Option A	Mayela	
+False	0	5	0.0108	18	67	18	Option A	Mayela	
+True	-0.216	1	0.0108	18	67	18	Option A	Mayela	
+False	0.2052	1	0.0108	18	67	18	Option A	Mayela	
+True	0	2	0.0108	18	67	18	Option A	Mayela	
+False	0	2	0.0108	18	67	18	Option A	Mayela	
+True	-0.1728	3	0.0108	18	67	18	Option A	Mayela	
+False	0.162	3	0.0108	18	67	18	Option A	Mayela	
+True	-0.1512	4	0.0108	18	67	18	Option A	Mayela	
+True	0.1404	5	0.0108	18	67	18	Option A	Mayela	
+True	-0.1296	6	0.0108	18	67	18	Option A	Mayela	
+True	0	7	0.0108	18	67	18	Option A	Mayela	
+True	-0.1296	1	0.006480001	18	67	18	Option A	Mayela	
+True	0	2	0.006480001	18	67	18	Option A	Mayela	
+True	-0.11664	3	0.006480001	18	67	18	Option A	Mayela	
+True	0.11016	4	0.006480001	18	67	18	Option A	Mayela	
+True	-1	1	0.05	19	68	18	Option A	Eva	
+True	0	2	0.05	19	68	18	Option A	Eva	
+True	-0.9	3	0.05	19	68	18	Option A	Eva	
+True	0	4	0.05	19	68	18	Option A	Eva	
+True	-0.8	5	0.05	19	68	18	Option A	Eva	
+True	0	6	0.05	19	68	18	Option A	Eva	
+True	0	7	0.05	19	68	18	Option A	Eva	
+True	0.6499999	8	0.05	19	68	18	Option A	Eva	
+True	0	9	0.05	19	68	18	Option A	Eva	
+True	0	10	0.05	19	68	18	Option A	Eva	
+True	0	1	0.03	19	68	18	Option A	Eva	
+True	0	2	0.03	19	68	18	Option A	Eva	
+True	0	3	0.03	19	68	18	Option A	Eva	
+True	0	4	0.03	19	68	18	Option A	Eva	
+True	0	5	0.03	19	68	18	Option A	Eva	
+True	0.4500001	6	0.03	19	68	18	Option A	Eva	
+True	0	7	0.03	19	68	18	Option A	Eva	
+True	0.3900001	8	0.03	19	68	18	Option A	Eva	
+True	0	9	0.03	19	68	18	Option A	Eva	
+True	0.3300001	10	0.03	19	68	18	Option A	Eva	
+True	0	1	0.018	19	68	18	Option A	Eva	
+True	0	2	0.018	19	68	18	Option A	Eva	
+True	0	3	0.018	19	68	18	Option A	Eva	
+True	0.306	4	0.018	19	68	18	Option A	Eva	
+True	0	5	0.018	19	68	18	Option A	Eva	
+True	0	6	0.018	19	68	18	Option A	Eva	
+True	-0.252	7	0.018	19	68	18	Option A	Eva	
+True	0.234	8	0.018	19	68	18	Option A	Eva	
+True	0	9	0.018	19	68	18	Option A	Eva	
+True	0	1	0.05	20	68	20	Option A	Eva	
+True	0	2	0.05	20	68	20	Option A	Eva	
+True	-0.9	3	0.05	20	68	20	Option A	Eva	
+True	0	4	0.05	20	68	20	Option A	Eva	
+True	-0.8	5	0.05	20	68	20	Option A	Eva	
+True	0	6	0.05	20	68	20	Option A	Eva	
+True	-0.6999999	7	0.05	20	68	20	Option A	Eva	
+True	0.6499999	8	0.05	20	68	20	Option A	Eva	
+True	-0.5999999	9	0.05	20	68	20	Option A	Eva	
+True	0.5499999	10	0.05	20	68	20	Option A	Eva	
+True	-0.6	1	0.03	20	68	20	Option A	Eva	
+True	0.5700001	2	0.03	20	68	20	Option A	Eva	
+True	0	3	0.03	20	68	20	Option A	Eva	
+True	0	4	0.03	20	68	20	Option A	Eva	
+True	0	5	0.03	20	68	20	Option A	Eva	
+True	0	6	0.03	20	68	20	Option A	Eva	
+True	0	7	0.03	20	68	20	Option A	Eva	
+True	0.3900001	8	0.03	20	68	20	Option A	Eva	
+True	-0.3600001	9	0.03	20	68	20	Option A	Eva	
+True	0.3300001	10	0.03	20	68	20	Option A	Eva	
+True	-0.36	1	0.018	20	68	20	Option A	Eva	
+True	0.342	2	0.018	20	68	20	Option A	Eva	
+True	0	3	0.018	20	68	20	Option A	Eva	
+True	0	4	0.018	20	68	20	Option A	Eva	
+True	-0.288	5	0.018	20	68	20	Option A	Eva	
+True	0	6	0.018	20	68	20	Option A	Eva	
+True	0	7	0.018	20	68	20	Option A	Eva	
+True	0	8	0.018	20	68	20	Option A	Eva	
+True	0	9	0.018	20	68	20	Option A	Eva	
+True	0.198	10	0.018	20	68	20	Option A	Eva	
+True	0	1	0.0108	20	68	20	Option A	Eva	
+True	0	2	0.0108	20	68	20	Option A	Eva	
+True	0	3	0.0108	20	68	20	Option A	Eva	
+True	0	4	0.0108	20	68	20	Option A	Eva	
+True	0	5	0.0108	20	68	20	Option A	Eva	
+True	0.162	6	0.0108	20	68	20	Option A	Eva	
+True	0	7	0.0108	20	68	20	Option A	Eva	
+True	0.1404	8	0.0108	20	68	20	Option A	Eva	
+True	-0.1296	9	0.0108	20	68	20	Option A	Eva	
+True	0.1188	10	0.0108	20	68	20	Option A	Eva	
+True	-0.1296	1	0.006480001	20	68	20	Option A	Eva	
+True	-1	1	0.05	21	64	18	Option A	Eva	
+True	0.95	2	0.05	21	64	18	Option A	Eva	
+True	0	3	0.05	21	64	18	Option A	Eva	
+True	0	4	0.05	21	64	18	Option A	Eva	
+True	-0.8	5	0.05	21	64	18	Option A	Eva	
+True	0.7499999	6	0.05	21	64	18	Option A	Eva	
+True	-0.6999999	7	0.05	21	64	18	Option A	Eva	
+True	0.6499999	8	0.05	21	64	18	Option A	Eva	
+True	-0.5999999	9	0.05	21	64	18	Option A	Eva	
+True	0	10	0.05	21	64	18	Option A	Eva	
+True	0	1	0.03	21	64	18	Option A	Eva	
+True	0.5700001	2	0.03	21	64	18	Option A	Eva	
+True	0	3	0.03	21	64	18	Option A	Eva	
+True	0	4	0.03	21	64	18	Option A	Eva	
+True	-0.4800001	5	0.03	21	64	18	Option A	Eva	
+True	0.4500001	6	0.03	21	64	18	Option A	Eva	
+True	-0.4200001	7	0.03	21	64	18	Option A	Eva	
+True	0.3900001	8	0.03	21	64	18	Option A	Eva	
+True	-0.3600001	9	0.03	21	64	18	Option A	Eva	
+True	0.3300001	10	0.03	21	64	18	Option A	Eva	
+True	-0.36	1	0.018	21	64	18	Option A	Eva	
+True	0	2	0.018	21	64	18	Option A	Eva	
+True	0	3	0.018	21	64	18	Option A	Eva	
+True	0	4	0.018	21	64	18	Option A	Eva	
+True	0	5	0.018	21	64	18	Option A	Eva	
+True	0	6	0.018	21	64	18	Option A	Eva	
+True	0	7	0.018	21	64	18	Option A	Eva	
+True	0.234	8	0.018	21	64	18	Option A	Eva	
+True	-0.216	9	0.018	21	64	18	Option A	Eva	
+True	0	10	0.018	21	64	18	Option A	Eva	
+True	-0.216	1	0.0108	21	64	18	Option A	Eva	
+True	0.2052	2	0.0108	21	64	18	Option A	Eva	
+True	-0.1944	3	0.0108	21	64	18	Option A	Eva	
+True	0.1836	4	0.0108	21	64	18	Option A	Eva	
+True	0	5	0.0108	21	64	18	Option A	Eva	
+True	0.162	6	0.0108	21	64	18	Option A	Eva	
+True	0	7	0.0108	21	64	18	Option A	Eva	
+True	0.1404	8	0.0108	21	64	18	Option A	Eva	
+True	0	9	0.0108	21	64	18	Option A	Eva	
+True	0.1188	10	0.0108	21	64	18	Option A	Eva	
+True	0	1	0.006480001	21	64	18	Option A	Eva	
+True	0	1	0.05	21	62	19	Option A	Eva	
+True	0	2	0.05	21	62	19	Option A	Eva	
+True	0.9	3	0.05	21	62	19	Option A	Eva	
+False	-0.85	3	0.05	21	62	19	Option A	Eva	
+True	0	4	0.05	21	62	19	Option A	Eva	
+True	-0.7499999	5	0.05	21	62	19	Option A	Eva	
+True	0.6999999	6	0.05	21	62	19	Option A	Eva	
+True	0	7	0.05	21	62	19	Option A	Eva	
+True	0.5999999	8	0.05	21	62	19	Option A	Eva	
+True	-0.5499999	9	0.05	21	62	19	Option A	Eva	
+False	0	0	0.03	21	62	19	Option A	Eva	
+False	0	0	0.03	21	62	19	Option A	Eva	
+False	0.5400001	0	0.03	21	62	19	Option A	Eva	
+True	-0.5100001	1	0.03	21	62	19	Option A	Eva	
+False	0.4800001	1	0.03	21	62	19	Option A	Eva	
+True	0	2	0.03	21	62	19	Option A	Eva	
+False	0	2	0.03	21	62	19	Option A	Eva	
+False	-0.3900001	2	0.03	21	62	19	Option A	Eva	
+True	0	3	0.03	21	62	19	Option A	Eva	
+False	0	3	0.03	21	62	19	Option A	Eva	
+True	0.6	1	0.03	21	62	19	Option A	Eva	
+True	-0.5700001	2	0.03	21	62	19	Option A	Eva	
+True	0.5400001	3	0.03	21	62	19	Option A	Eva	
+True	-0.5100001	4	0.03	21	62	19	Option A	Eva	
+True	0.4800001	5	0.03	21	62	19	Option A	Eva	
+True	0	6	0.03	21	62	19	Option A	Eva	
+True	0.4200001	7	0.03	21	62	19	Option A	Eva	
+True	0	8	0.03	21	62	19	Option A	Eva	
+True	0.3600001	9	0.03	21	62	19	Option A	Eva	
+True	-0.3300001	10	0.03	21	62	19	Option A	Eva	
+True	0	1	0.018	21	62	19	Option A	Eva	
+True	-0.342	2	0.018	21	62	19	Option A	Eva	
+True	0	3	0.018	21	62	19	Option A	Eva	
+True	0	4	0.018	21	62	19	Option A	Eva	
+True	0	5	0.018	21	62	19	Option A	Eva	
+True	-0.27	6	0.018	21	62	19	Option A	Eva	
+True	0	7	0.018	21	62	19	Option A	Eva	
+True	-0.234	8	0.018	21	62	19	Option A	Eva	
+True	0	9	0.018	21	62	19	Option A	Eva	
+True	-0.198	10	0.018	21	62	19	Option A	Eva	
+True	0.216	1	0.0108	21	62	19	Option A	Eva	
+True	0	1	0.05	23	63	18	Option A	Mayela	
+True	0	2	0.05	23	63	18	Option A	Mayela	
+True	0	3	0.05	23	63	18	Option A	Mayela	
+False	0	3	0.05	23	63	18	Option A	Mayela	
+True	0	4	0.05	23	63	18	Option A	Mayela	
+True	-0.7499999	5	0.05	23	63	18	Option A	Mayela	
+True	0.6999999	6	0.05	23	63	18	Option A	Mayela	
+True	-0.6499999	7	0.05	23	63	18	Option A	Mayela	
+True	0	8	0.05	23	63	18	Option A	Mayela	
+True	-0.5499999	9	0.05	23	63	18	Option A	Mayela	
+True	0.6	1	0.03	23	63	18	Option A	Mayela	
+True	-0.5700001	2	0.03	23	63	18	Option A	Mayela	
+True	0	3	0.03	23	63	18	Option A	Mayela	
+True	0	4	0.03	23	63	18	Option A	Mayela	
+True	0.4800001	5	0.03	23	63	18	Option A	Mayela	
+False	-0.4500001	5	0.03	23	63	18	Option A	Mayela	
+False	0.4200001	5	0.03	23	63	18	Option A	Mayela	
+True	-0.3900001	6	0.03	23	63	18	Option A	Mayela	
+False	0	6	0.03	23	63	18	Option A	Mayela	
+True	-0.3300001	7	0.03	23	63	18	Option A	Mayela	
+True	0.36	1	0.018	23	63	18	Option A	Mayela	
+False	-0.342	1	0.018	23	63	18	Option A	Mayela	
+True	0.324	2	0.018	23	63	18	Option A	Mayela	
+False	0	2	0.018	23	63	18	Option A	Mayela	
+False	0	2	0.018	23	63	18	Option A	Mayela	
+False	0	2	0.018	23	63	18	Option A	Mayela	
+False	0.252	2	0.018	23	63	18	Option A	Mayela	
+False	-0.234	2	0.018	23	63	18	Option A	Mayela	
+False	0.216	2	0.018	23	63	18	Option A	Mayela	
+True	-0.198	3	0.018	23	63	18	Option A	Mayela	
+True	0.36	1	0.018	23	63	18	Option A	Mayela	
+False	0	1	0.018	23	63	18	Option A	Mayela	
+True	0.324	2	0.018	23	63	18	Option A	Mayela	
+True	0	3	0.018	23	63	18	Option A	Mayela	
+False	0	3	0.018	23	63	18	Option A	Mayela	
+False	-0.27	3	0.018	23	63	18	Option A	Mayela	
+False	0	3	0.018	23	63	18	Option A	Mayela	
+True	-0.234	4	0.018	23	63	18	Option A	Mayela	
+False	0.216	4	0.018	23	63	18	Option A	Mayela	
+True	-0.198	5	0.018	23	63	18	Option A	Mayela	
+True	0.36	1	0.018	23	63	18	Option A	Mayela	
+True	0	2	0.018	23	63	18	Option A	Mayela	
+True	0	3	0.018	23	63	18	Option A	Mayela	
+False	0	3	0.018	23	63	18	Option A	Mayela	
+False	0	3	0.018	23	63	18	Option A	Mayela	
+True	0	4	0.018	23	63	18	Option A	Mayela	
+False	0	4	0.018	23	63	18	Option A	Mayela	
+False	-0.234	4	0.018	23	63	18	Option A	Mayela	
+True	0.216	5	0.018	23	63	18	Option A	Mayela	
+True	-0.198	6	0.018	23	63	18	Option A	Mayela	
+False	0	0	0.018	23	63	18	Option A	Mayela	
+True	-0.342	1	0.018	23	63	18	Option A	Mayela	
+False	0.324	1	0.018	23	63	18	Option A	Mayela	
+False	-0.306	1	0.018	23	63	18	Option A	Mayela	
+False	0	1	0.018	23	63	18	Option A	Mayela	
+True	-0.27	2	0.018	23	63	18	Option A	Mayela	
+True	0	3	0.018	23	63	18	Option A	Mayela	
+False	0	0	0.05	24	75	20	Option A	Mayela	
+True	0.95	1	0.05	24	75	20	Option A	Mayela	
+True	-0.9	2	0.05	24	75	20	Option A	Mayela	
+False	0.85	2	0.05	24	75	20	Option A	Mayela	
+True	-0.8	3	0.05	24	75	20	Option A	Mayela	
+True	0	4	0.05	24	75	20	Option A	Mayela	
+True	-0.6999999	5	0.05	24	75	20	Option A	Mayela	
+True	0	6	0.05	24	75	20	Option A	Mayela	
+False	0	6	0.05	24	75	20	Option A	Mayela	
+False	0	6	0.05	24	75	20	Option A	Mayela	
+True	-1	1	0.05	24	75	20	Option A	Mayela	
+True	0.95	2	0.05	24	75	20	Option A	Mayela	
+False	-0.9	2	0.05	24	75	20	Option A	Mayela	
+False	0	2	0.05	24	75	20	Option A	Mayela	
+True	-0.8	3	0.05	24	75	20	Option A	Mayela	
+True	0	4	0.05	24	75	20	Option A	Mayela	
+True	-0.6999999	5	0.05	24	75	20	Option A	Mayela	
+True	0.6499999	6	0.05	24	75	20	Option A	Mayela	
+True	0	7	0.05	24	75	20	Option A	Mayela	
+True	0	8	0.05	24	75	20	Option A	Mayela	
+True	-0.6	1	0.03	24	75	20	Option A	Mayela	
+False	0.5700001	1	0.03	24	75	20	Option A	Mayela	
+True	0	2	0.03	24	75	20	Option A	Mayela	
+True	0	3	0.03	24	75	20	Option A	Mayela	
+True	-0.4800001	4	0.03	24	75	20	Option A	Mayela	
+True	0	5	0.03	24	75	20	Option A	Mayela	
+True	0	6	0.03	24	75	20	Option A	Mayela	
+False	0	6	0.03	24	75	20	Option A	Mayela	
+True	-0.3600001	7	0.03	24	75	20	Option A	Mayela	
+True	0	8	0.03	24	75	20	Option A	Mayela	
+True	0	1	0.018	24	75	20	Option A	Mayela	
+False	0.342	1	0.018	24	75	20	Option A	Mayela	
+True	-0.324	2	0.018	24	75	20	Option A	Mayela	
+False	0.306	2	0.018	24	75	20	Option A	Mayela	
+True	0	3	0.018	24	75	20	Option A	Mayela	
+False	0	3	0.018	24	75	20	Option A	Mayela	
+False	0	3	0.018	24	75	20	Option A	Mayela	
+True	0	4	0.018	24	75	20	Option A	Mayela	
+False	-0.216	4	0.018	24	75	20	Option A	Mayela	
+False	0	4	0.018	24	75	20	Option A	Mayela	
+True	0	1	0.018	24	75	20	Option A	Mayela	
+False	0	1	0.018	24	75	20	Option A	Mayela	
+True	-0.324	2	0.018	24	75	20	Option A	Mayela	
+True	0	3	0.018	24	75	20	Option A	Mayela	
+False	-0.288	3	0.018	24	75	20	Option A	Mayela	
+False	0	3	0.018	24	75	20	Option A	Mayela	
+False	0	3	0.018	24	75	20	Option A	Mayela	
+False	0	3	0.018	24	75	20	Option A	Mayela	
+True	-0.216	4	0.018	24	75	20	Option A	Mayela	
+True	0	5	0.018	24	75	20	Option A	Mayela	
+True	0	1	0.018	24	75	20	Option A	Mayela	
+True	0.342	2	0.018	24	75	20	Option A	Mayela	
+True	-0.324	3	0.018	24	75	20	Option A	Mayela	
+True	0.306	4	0.018	24	75	20	Option A	Mayela	
+True	0	5	0.018	24	75	20	Option A	Mayela	
+True	0.27	6	0.018	24	75	20	Option A	Mayela	
+False	-0.252	6	0.018	24	75	20	Option A	Mayela	
+True	0	7	0.018	24	75	20	Option A	Mayela	
+True	-0.216	8	0.018	24	75	20	Option A	Mayela	
+True	0.198	9	0.018	24	75	20	Option A	Mayela	
+False	1	0	0.05	25	73	18	Option A	Mayela	
+True	-0.95	1	0.05	25	73	18	Option A	Mayela	
+True	0.9	2	0.05	25	73	18	Option A	Mayela	
+True	-0.85	3	0.05	25	73	18	Option A	Mayela	
+True	0.8	4	0.05	25	73	18	Option A	Mayela	
+True	0	5	0.05	25	73	18	Option A	Mayela	
+True	0.6999999	6	0.05	25	73	18	Option A	Mayela	
+True	-0.6499999	7	0.05	25	73	18	Option A	Mayela	
+True	0	8	0.05	25	73	18	Option A	Mayela	
+True	-0.5499999	9	0.05	25	73	18	Option A	Mayela	
+True	0.6	1	0.03	25	73	18	Option A	Mayela	
+True	0	2	0.03	25	73	18	Option A	Mayela	
+True	0	3	0.03	25	73	18	Option A	Mayela	
+True	-0.5100001	4	0.03	25	73	18	Option A	Mayela	
+True	0	5	0.03	25	73	18	Option A	Mayela	
+True	-0.4500001	6	0.03	25	73	18	Option A	Mayela	
+True	0.4200001	7	0.03	25	73	18	Option A	Mayela	
+True	0	8	0.03	25	73	18	Option A	Mayela	
+True	0.3600001	9	0.03	25	73	18	Option A	Mayela	
+True	-0.3300001	10	0.03	25	73	18	Option A	Mayela	
+True	0.36	1	0.018	25	73	18	Option A	Mayela	
+True	-0.342	2	0.018	25	73	18	Option A	Mayela	
+True	0	3	0.018	25	73	18	Option A	Mayela	
+False	0	3	0.018	25	73	18	Option A	Mayela	
+False	0.288	3	0.018	25	73	18	Option A	Mayela	
+True	-0.27	4	0.018	25	73	18	Option A	Mayela	
+True	0	5	0.018	25	73	18	Option A	Mayela	
+True	-0.234	6	0.018	25	73	18	Option A	Mayela	
+True	0.216	7	0.018	25	73	18	Option A	Mayela	
+False	0	7	0.018	25	73	18	Option A	Mayela	
+True	0	1	0.0108	25	73	18	Option A	Mayela	
+False	0	1	0.0108	25	73	18	Option A	Mayela	
+True	0	2	0.0108	25	73	18	Option A	Mayela	
+True	-0.1836	3	0.0108	25	73	18	Option A	Mayela	
+True	0	4	0.0108	25	73	18	Option A	Mayela	
+False	0	4	0.0108	25	73	18	Option A	Mayela	
+True	0	5	0.0108	25	73	18	Option A	Mayela	
+True	-0.1404	6	0.0108	25	73	18	Option A	Mayela	
+False	0.1296	6	0.0108	25	73	18	Option A	Mayela	
+True	-0.1188	7	0.0108	25	73	18	Option A	Mayela	
+False	0	0	0.006480001	25	73	18	Option A	Mayela	
+True	0	1	0.006480001	25	73	18	Option A	Mayela	
+True	0	2	0.006480001	25	73	18	Option A	Mayela	
+False	0	2	0.006480001	25	73	18	Option A	Mayela	
+True	0.10368	3	0.006480001	25	73	18	Option A	Mayela	
+True	0	4	0.006480001	25	73	18	Option A	Mayela	
+True	0	5	0.006480001	25	73	18	Option A	Mayela	
+False	-0.08424001	5	0.006480001	25	73	18	Option A	Mayela	
+False	0	5	0.006480001	25	73	18	Option A	Mayela	
+False	0	5	0.006480001	25	73	18	Option A	Mayela	
+True	0.1296	1	0.006480001	25	73	18	Option A	Mayela	
+False	-0.12312	1	0.006480001	25	73	18	Option A	Mayela	
+True	0	1	0.05	26	72	20	Option A	Mayela	
+True	0.95	2	0.05	26	72	20	Option A	Mayela	
+True	-0.9	3	0.05	26	72	20	Option A	Mayela	
+True	0	4	0.05	26	72	20	Option A	Mayela	
+True	-0.8	5	0.05	26	72	20	Option A	Mayela	
+True	0.7499999	6	0.05	26	72	20	Option A	Mayela	
+True	0	7	0.05	26	72	20	Option A	Mayela	
+True	0	8	0.05	26	72	20	Option A	Mayela	
+True	-0.5999999	9	0.05	26	72	20	Option A	Mayela	
+True	0	10	0.05	26	72	20	Option A	Mayela	
+True	-0.6	1	0.03	26	72	20	Option A	Mayela	
+True	0.5700001	2	0.03	26	72	20	Option A	Mayela	
+True	-0.5400001	3	0.03	26	72	20	Option A	Mayela	
+True	0.5100001	4	0.03	26	72	20	Option A	Mayela	
+True	0	5	0.03	26	72	20	Option A	Mayela	
+True	0	6	0.03	26	72	20	Option A	Mayela	
+True	-0.4200001	7	0.03	26	72	20	Option A	Mayela	
+True	0	8	0.03	26	72	20	Option A	Mayela	
+True	0	9	0.03	26	72	20	Option A	Mayela	
+True	0	10	0.03	26	72	20	Option A	Mayela	
+True	0	1	0.018	26	72	20	Option A	Mayela	
+True	0.342	2	0.018	26	72	20	Option A	Mayela	
+True	-0.324	3	0.018	26	72	20	Option A	Mayela	
+True	0.306	4	0.018	26	72	20	Option A	Mayela	
+True	-0.288	5	0.018	26	72	20	Option A	Mayela	
+True	0.27	6	0.018	26	72	20	Option A	Mayela	
+True	-0.252	7	0.018	26	72	20	Option A	Mayela	
+True	0.234	8	0.018	26	72	20	Option A	Mayela	
+True	0	9	0.018	26	72	20	Option A	Mayela	
+True	0	10	0.018	26	72	20	Option A	Mayela	
+True	-0.216	1	0.0108	26	72	20	Option A	Mayela	
+False	0	1	0.0108	26	72	20	Option A	Mayela	
+True	-0.1944	2	0.0108	26	72	20	Option A	Mayela	
+True	0.1836	3	0.0108	26	72	20	Option A	Mayela	
+True	-0.1728	4	0.0108	26	72	20	Option A	Mayela	
+True	0.162	5	0.0108	26	72	20	Option A	Mayela	
+True	-0.1512	6	0.0108	26	72	20	Option A	Mayela	
+True	0	7	0.0108	26	72	20	Option A	Mayela	
+True	-0.1296	8	0.0108	26	72	20	Option A	Mayela	
+True	0.1188	9	0.0108	26	72	20	Option A	Mayela	
+True	0	1	0.006480001	26	72	20	Option A	Mayela	
+False	0	1	0.006480001	26	72	20	Option A	Mayela	
+True	-0.11664	2	0.006480001	26	72	20	Option A	Mayela	
+True	0	3	0.006480001	26	72	20	Option A	Mayela	
+False	0	3	0.006480001	26	72	20	Option A	Mayela	
+False	0	3	0.006480001	26	72	20	Option A	Mayela	
+True	-0.09072001	4	0.006480001	26	72	20	Option A	Mayela	
+True	0.08424001	5	0.006480001	26	72	20	Option A	Mayela	
+True	-0.07776001	6	0.006480001	26	72	20	Option A	Mayela	
+True	0.07128001	7	0.006480001	26	72	20	Option A	Mayela	
+True	0	1	0.003888001	26	72	20	Option A	Mayela	
+True	0	2	0.003888001	26	72	20	Option A	Mayela	
+False	-0.069984	2	0.003888001	26	72	20	Option A	Mayela	
+False	0	2	0.003888001	26	72	20	Option A	Mayela	
+True	-0.062208	3	0.003888001	26	72	20	Option A	Mayela	
+False	0	3	0.003888001	26	72	20	Option A	Mayela	
+False	0	3	0.003888001	26	72	20	Option A	Mayela	
+True	0.050544	4	0.003888001	26	72	20	Option A	Mayela	
+True	-0.046656	5	0.003888001	26	72	20	Option A	Mayela	
+True	-1	1	0.05	27	67	18	Option A	Mayela	
+False	0	1	0.05	27	67	18	Option A	Mayela	
+True	0	2	0.05	27	67	18	Option A	Mayela	
+True	0	3	0.05	27	67	18	Option A	Mayela	
+False	0	3	0.05	27	67	18	Option A	Mayela	
+True	0.7499999	4	0.05	27	67	18	Option A	Mayela	
+True	-0.6999999	5	0.05	27	67	18	Option A	Mayela	
+True	0	6	0.05	27	67	18	Option A	Mayela	
+True	-0.5999999	7	0.05	27	67	18	Option A	Mayela	
+True	0.5499999	8	0.05	27	67	18	Option A	Mayela	
+True	-0.6	1	0.03	27	67	18	Option A	Mayela	
+True	0	2	0.03	27	67	18	Option A	Mayela	
+False	-0.5400001	2	0.03	27	67	18	Option A	Mayela	
+False	0	2	0.03	27	67	18	Option A	Mayela	
+True	-0.4800001	3	0.03	27	67	18	Option A	Mayela	
+True	0	4	0.03	27	67	18	Option A	Mayela	
+True	0	5	0.03	27	67	18	Option A	Mayela	
+True	0.3900001	6	0.03	27	67	18	Option A	Mayela	
+True	-0.3600001	7	0.03	27	67	18	Option A	Mayela	
+True	0	8	0.03	27	67	18	Option A	Mayela	
+True	-0.36	1	0.018	27	67	18	Option A	Mayela	
+True	0.342	2	0.018	27	67	18	Option A	Mayela	
+False	0	2	0.018	27	67	18	Option A	Mayela	
+False	0	2	0.018	27	67	18	Option A	Mayela	
+False	0	2	0.018	27	67	18	Option A	Mayela	
+True	0.27	3	0.018	27	67	18	Option A	Mayela	
+True	0	4	0.018	27	67	18	Option A	Mayela	
+False	0	4	0.018	27	67	18	Option A	Mayela	
+False	0	4	0.018	27	67	18	Option A	Mayela	
+True	0	5	0.018	27	67	18	Option A	Mayela	
+False	-0.36	0	0.018	27	67	18	Option A	Mayela	
+True	0.342	1	0.018	27	67	18	Option A	Mayela	
+False	0	1	0.018	27	67	18	Option A	Mayela	
+False	0.306	1	0.018	27	67	18	Option A	Mayela	
+True	-0.288	2	0.018	27	67	18	Option A	Mayela	
+False	0.27	2	0.018	27	67	18	Option A	Mayela	
+False	0	2	0.018	27	67	18	Option A	Mayela	
+True	0	3	0.018	27	67	18	Option A	Mayela	
+True	0	4	0.018	27	67	18	Option A	Mayela	
+True	0.198	5	0.018	27	67	18	Option A	Mayela	
+False	-0.36	0	0.018	27	67	18	Option A	Mayela	
+False	0.342	0	0.018	27	67	18	Option A	Mayela	
+False	0	0	0.018	27	67	18	Option A	Mayela	
+False	0.306	0	0.018	27	67	18	Option A	Mayela	
+True	0	1	0.05	28	71	19	Option A	Mayela	
+True	0.95	2	0.05	28	71	19	Option A	Mayela	
+True	0	3	0.05	28	71	19	Option A	Mayela	
+True	0.85	4	0.05	28	71	19	Option A	Mayela	
+True	0	5	0.05	28	71	19	Option A	Mayela	
+True	0.7499999	6	0.05	28	71	19	Option A	Mayela	
+False	-0.6999999	6	0.05	28	71	19	Option A	Mayela	
+False	0	6	0.05	28	71	19	Option A	Mayela	
+False	0	6	0.05	28	71	19	Option A	Mayela	
+False	0	6	0.05	28	71	19	Option A	Mayela	
+False	0	0	0.05	28	71	19	Option A	Mayela	
+True	0.95	1	0.05	28	71	19	Option A	Mayela	
+False	-0.9	1	0.05	28	71	19	Option A	Mayela	
+False	0	1	0.05	28	71	19	Option A	Mayela	
+True	-0.8	2	0.05	28	71	19	Option A	Mayela	
+True	0	3	0.05	28	71	19	Option A	Mayela	
+True	-0.6999999	4	0.05	28	71	19	Option A	Mayela	
+True	0.6499999	5	0.05	28	71	19	Option A	Mayela	
+False	-0.5999999	5	0.05	28	71	19	Option A	Mayela	
+True	0.5499999	6	0.05	28	71	19	Option A	Mayela	
+True	0	1	0.05	28	71	19	Option A	Mayela	
+True	0.95	2	0.05	28	71	19	Option A	Mayela	
+True	-0.9	3	0.05	28	71	19	Option A	Mayela	
+False	0.85	3	0.05	28	71	19	Option A	Mayela	
+False	0	3	0.05	28	71	19	Option A	Mayela	
+True	0.7499999	4	0.05	28	71	19	Option A	Mayela	
+True	0	5	0.05	28	71	19	Option A	Mayela	
+False	0	5	0.05	28	71	19	Option A	Mayela	
+True	0	6	0.05	28	71	19	Option A	Mayela	
+True	0	7	0.05	28	71	19	Option A	Mayela	
+False	0	0	0.03	28	71	19	Option A	Mayela	
+True	0.5700001	1	0.03	28	71	19	Option A	Mayela	
+False	-0.5400001	1	0.03	28	71	19	Option A	Mayela	
+True	0.5100001	2	0.03	28	71	19	Option A	Mayela	
+False	0	2	0.03	28	71	19	Option A	Mayela	
+False	0.4500001	2	0.03	28	71	19	Option A	Mayela	
+False	0	2	0.03	28	71	19	Option A	Mayela	
+False	0.3900001	2	0.03	28	71	19	Option A	Mayela	
+True	-0.3600001	3	0.03	28	71	19	Option A	Mayela	
+False	0	3	0.03	28	71	19	Option A	Mayela	
+False	-0.6	0	0.03	28	71	19	Option A	Mayela	
+True	0.5700001	1	0.03	28	71	19	Option A	Mayela	
+True	-0.5400001	2	0.03	28	71	19	Option A	Mayela	
+False	0.5100001	2	0.03	28	71	19	Option A	Mayela	
+False	0	2	0.03	28	71	19	Option A	Mayela	
+True	0.4500001	3	0.03	28	71	19	Option A	Mayela	
+False	0	0	0.05	Test			Option A	Mayela	
+False	0	0	0.05	Test			Option A	Mayela	
+True	0	1	0.05	Test			Option A	Mayela	
+False	0	0	0.05	29	73	18	Option A	Mayela	
+True	0.95	1	0.05	29	73	18	Option A	Mayela	
+True	0	2	0.05	29	73	18	Option A	Mayela	
+False	0.85	2	0.05	29	73	18	Option A	Mayela	
+False	0	2	0.05	29	73	18	Option A	Mayela	
+True	0.7499999	3	0.05	29	73	18	Option A	Mayela	
+True	0	4	0.05	29	73	18	Option A	Mayela	
+True	0	5	0.05	29	73	18	Option A	Mayela	
+False	-0.5999999	5	0.05	29	73	18	Option A	Mayela	
+True	0	6	0.05	29	73	18	Option A	Mayela	
+True	0	1	0.05	29	73	18	Option A	Mayela	
+True	0.95	2	0.05	29	73	18	Option A	Mayela	
+True	-0.9	3	0.05	29	73	18	Option A	Mayela	
+True	0.85	4	0.05	29	73	18	Option A	Mayela	
+True	0	5	0.05	29	73	18	Option A	Mayela	
+True	0.7499999	6	0.05	29	73	18	Option A	Mayela	
+True	-0.6999999	7	0.05	29	73	18	Option A	Mayela	
+True	0.6499999	8	0.05	29	73	18	Option A	Mayela	
+True	-0.5999999	9	0.05	29	73	18	Option A	Mayela	
+True	0	10	0.05	29	73	18	Option A	Mayela	
+True	-0.6	1	0.03	29	73	18	Option A	Mayela	
+False	0.5700001	1	0.03	29	73	18	Option A	Mayela	
+True	-0.5400001	2	0.03	29	73	18	Option A	Mayela	
+False	0.5100001	2	0.03	29	73	18	Option A	Mayela	
+False	0	2	0.03	29	73	18	Option A	Mayela	
+True	0	3	0.03	29	73	18	Option A	Mayela	
+True	0	4	0.03	29	73	18	Option A	Mayela	
+True	0	5	0.03	29	73	18	Option A	Mayela	
+False	0	5	0.03	29	73	18	Option A	Mayela	
+True	0	6	0.03	29	73	18	Option A	Mayela	
+True	-0.6	1	0.03	29	73	18	Option A	Mayela	
+True	0.5700001	2	0.03	29	73	18	Option A	Mayela	
+True	0	3	0.03	29	73	18	Option A	Mayela	
+True	0.5100001	4	0.03	29	73	18	Option A	Mayela	
+True	-0.4800001	5	0.03	29	73	18	Option A	Mayela	
+False	0	5	0.03	29	73	18	Option A	Mayela	
+True	0	6	0.03	29	73	18	Option A	Mayela	
+True	0.3900001	7	0.03	29	73	18	Option A	Mayela	
+False	-0.3600001	7	0.03	29	73	18	Option A	Mayela	
+False	0.3300001	7	0.03	29	73	18	Option A	Mayela	
+False	0	0	0.018	29	73	18	Option A	Mayela	
+True	0	1	0.018	29	73	18	Option A	Mayela	
+True	0	2	0.018	29	73	18	Option A	Mayela	
+True	0	3	0.018	29	73	18	Option A	Mayela	
+True	0	4	0.018	29	73	18	Option A	Mayela	
+True	1	1	0.05	30	64	18	Option A	Mayela	
+True	0	2	0.05	30	64	18	Option A	Mayela	
+True	0.9	3	0.05	30	64	18	Option A	Mayela	
+True	0	4	0.05	30	64	18	Option A	Mayela	
+True	0.8	5	0.05	30	64	18	Option A	Mayela	
+True	0	6	0.05	30	64	18	Option A	Mayela	
+True	0	7	0.05	30	64	18	Option A	Mayela	
+True	-0.6499999	8	0.05	30	64	18	Option A	Mayela	
+True	0.5999999	9	0.05	30	64	18	Option A	Mayela	
+True	-0.5499999	10	0.05	30	64	18	Option A	Mayela	
+True	0	1	0.03	30	64	18	Option A	Mayela	
+True	0	2	0.03	30	64	18	Option A	Mayela	
+True	0.5400001	3	0.03	30	64	18	Option A	Mayela	
+True	-0.5100001	4	0.03	30	64	18	Option A	Mayela	
+False	0.4800001	4	0.03	30	64	18	Option A	Mayela	
+False	0	4	0.03	30	64	18	Option A	Mayela	
+False	0.4200001	4	0.03	30	64	18	Option A	Mayela	
+True	0	5	0.03	30	64	18	Option A	Mayela	
+False	0	5	0.03	30	64	18	Option A	Mayela	
+True	-0.3300001	6	0.03	30	64	18	Option A	Mayela	
+True	0	1	0.03	30	64	18	Option A	Mayela	
+True	0	2	0.03	30	64	18	Option A	Mayela	
+True	0	3	0.03	30	64	18	Option A	Mayela	
+True	-0.5100001	4	0.03	30	64	18	Option A	Mayela	
+True	0	5	0.03	30	64	18	Option A	Mayela	
+True	0	6	0.03	30	64	18	Option A	Mayela	
+True	0.4200001	7	0.03	30	64	18	Option A	Mayela	
+True	0	8	0.03	30	64	18	Option A	Mayela	
+False	0	8	0.03	30	64	18	Option A	Mayela	
+True	0	9	0.03	30	64	18	Option A	Mayela	
+True	0.36	1	0.018	30	64	18	Option A	Mayela	
+True	0	2	0.018	30	64	18	Option A	Mayela	
+True	0	3	0.018	30	64	18	Option A	Mayela	
+True	-0.306	4	0.018	30	64	18	Option A	Mayela	
+True	0.288	5	0.018	30	64	18	Option A	Mayela	
+True	0	6	0.018	30	64	18	Option A	Mayela	
+True	0	7	0.018	30	64	18	Option A	Mayela	
+False	0	7	0.018	30	64	18	Option A	Mayela	
+True	0.216	8	0.018	30	64	18	Option A	Mayela	
+True	0	9	0.018	30	64	18	Option A	Mayela	
+True	0.216	1	0.0108	30	64	18	Option A	Mayela	
+True	0	2	0.0108	30	64	18	Option A	Mayela	
+False	0	2	0.0108	30	64	18	Option A	Mayela	
+True	-0.1836	3	0.0108	30	64	18	Option A	Mayela	
+True	0	4	0.0108	30	64	18	Option A	Mayela	
+True	1	1	0.05	31	63	18	Option A	Mayela	
+True	0	2	0.05	31	63	18	Option A	Mayela	
+True	0.9	3	0.05	31	63	18	Option A	Mayela	
+True	0	4	0.05	31	63	18	Option A	Mayela	
+True	0.8	5	0.05	31	63	18	Option A	Mayela	
+True	-0.7499999	6	0.05	31	63	18	Option A	Mayela	
+True	0	7	0.05	31	63	18	Option A	Mayela	
+False	0	7	0.05	31	63	18	Option A	Mayela	
+True	0	8	0.05	31	63	18	Option A	Mayela	
+False	0	8	0.05	31	63	18	Option A	Mayela	
+True	0	1	0.03	31	63	18	Option A	Mayela	
+True	0	2	0.03	31	63	18	Option A	Mayela	
+True	0.5400001	3	0.03	31	63	18	Option A	Mayela	
+False	-0.5100001	3	0.03	31	63	18	Option A	Mayela	
+True	0.4800001	4	0.03	31	63	18	Option A	Mayela	
+True	-0.4500001	5	0.03	31	63	18	Option A	Mayela	
+False	0	5	0.03	31	63	18	Option A	Mayela	
+True	0	6	0.03	31	63	18	Option A	Mayela	
+True	0.3600001	7	0.03	31	63	18	Option A	Mayela	
+False	-0.3300001	7	0.03	31	63	18	Option A	Mayela	
+True	0	1	0.018	31	63	18	Option A	Mayela	
+True	-0.342	2	0.018	31	63	18	Option A	Mayela	
+True	0.324	3	0.018	31	63	18	Option A	Mayela	
+False	-0.306	3	0.018	31	63	18	Option A	Mayela	
+True	0.288	4	0.018	31	63	18	Option A	Mayela	
+False	0	4	0.018	31	63	18	Option A	Mayela	
+False	0	4	0.018	31	63	18	Option A	Mayela	
+True	0	5	0.018	31	63	18	Option A	Mayela	
+True	0	6	0.018	31	63	18	Option A	Mayela	
+False	-0.198	6	0.018	31	63	18	Option A	Mayela	
+False	0.36	0	0.018	31	63	18	Option A	Mayela	
+False	0	0	0.018	31	63	18	Option A	Mayela	
+True	0	1	0.018	31	63	18	Option A	Mayela	
+False	0	1	0.018	31	63	18	Option A	Mayela	
+True	0.288	2	0.018	31	63	18	Option A	Mayela	
+True	0	3	0.018	31	63	18	Option A	Mayela	
+True	0	4	0.018	31	63	18	Option A	Mayela	
+False	0	4	0.018	31	63	18	Option A	Mayela	
+True	0	5	0.018	31	63	18	Option A	Mayela	
+True	0	6	0.018	31	63	18	Option A	Mayela	
+True	0.36	1	0.018	31	63	18	Option A	Mayela	
+False	0	1	0.018	31	63	18	Option A	Mayela	
+False	0	1	0.018	31	63	18	Option A	Mayela	
+False	-0.306	1	0.018	31	63	18	Option A	Mayela	
+True	0	2	0.018	31	63	18	Option A	Mayela	
+True	-0.27	3	0.018	31	63	18	Option A	Mayela	
+True	0.252	4	0.018	31	63	18	Option A	Mayela	
+False	0	4	0.018	31	63	18	Option A	Mayela	
+False	0.216	4	0.018	31	63	18	Option A	Mayela	
+True	1	1	0.05	32	6ft	18	Option A	Wendy	no
+True	-0.95	2	0.05	32	6ft	18	Option A	Wendy	no
+False	0.9	2	0.05	32	6ft	18	Option A	Wendy	no
+False	0	2	0.05	32	6ft	18	Option A	Wendy	no
+False	0.8	2	0.05	32	6ft	18	Option A	Wendy	no
+True	0	3	0.05	32	6ft	18	Option A	Wendy	no
+False	0	3	0.05	32	6ft	18	Option A	Wendy	no
+True	-0.6499999	4	0.05	32	6ft	18	Option A	Wendy	no
+False	0.5999999	4	0.05	32	6ft	18	Option A	Wendy	no
+False	0	4	0.05	32	6ft	18	Option A	Wendy	no
+False	1	0	0.05	32	6ft	18	Option A	Wendy	no
+False	0	0	0.05	32	6ft	18	Option A	Wendy	no
+True	0.9	1	0.05	32	6ft	18	Option A	Wendy	no
+True	-0.85	2	0.05	32	6ft	18	Option A	Wendy	no
+False	0.8	2	0.05	32	6ft	18	Option A	Wendy	no
+True	0	3	0.05	32	6ft	18	Option A	Wendy	no
+False	0	3	0.05	32	6ft	18	Option A	Wendy	no
+True	0	4	0.05	32	6ft	18	Option A	Wendy	no
+True	0.5999999	5	0.05	32	6ft	18	Option A	Wendy	no
+True	0	6	0.05	32	6ft	18	Option A	Wendy	no
+True	1	1	0.05	32	6ft	18	Option A	Wendy	no
+True	-0.95	2	0.05	32	6ft	18	Option A	Wendy	no
+True	0	3	0.05	32	6ft	18	Option A	Wendy	no
+True	-0.85	4	0.05	32	6ft	18	Option A	Wendy	no
+True	0	5	0.05	32	6ft	18	Option A	Wendy	no
+False	0	5	0.05	32	6ft	18	Option A	Wendy	no
+True	0.6999999	6	0.05	32	6ft	18	Option A	Wendy	no
+False	0	6	0.05	32	6ft	18	Option A	Wendy	no
+True	0	7	0.05	32	6ft	18	Option A	Wendy	no
+True	0	8	0.05	32	6ft	18	Option A	Wendy	no
+True	0	1	0.03	32	6ft	18	Option A	Wendy	no
+False	0	1	0.03	32	6ft	18	Option A	Wendy	no
+True	0	1	0.05	33	67	18	Option A	Eva	
+True	0	2	0.05	33	67	18	Option A	Eva	
+True	0	3	0.05	33	67	18	Option A	Eva	
+True	0	4	0.05	33	67	18	Option A	Eva	
+True	0.8	5	0.05	33	67	18	Option A	Eva	
+True	-0.7499999	6	0.05	33	67	18	Option A	Eva	
+True	0	7	0.05	33	67	18	Option A	Eva	
+True	-0.6499999	8	0.05	33	67	18	Option A	Eva	
+True	0	9	0.05	33	67	18	Option A	Eva	
+True	-0.5499999	10	0.05	33	67	18	Option A	Eva	
+True	0.6	1	0.03	33	67	18	Option A	Eva	
+True	0	2	0.03	33	67	18	Option A	Eva	
+True	0	3	0.03	33	67	18	Option A	Eva	
+True	-0.5100001	4	0.03	33	67	18	Option A	Eva	
+True	0.4800001	5	0.03	33	67	18	Option A	Eva	
+True	0	6	0.03	33	67	18	Option A	Eva	
+True	0	7	0.03	33	67	18	Option A	Eva	
+True	-0.3900001	8	0.03	33	67	18	Option A	Eva	
+True	0.3600001	9	0.03	33	67	18	Option A	Eva	
+True	0	10	0.03	33	67	18	Option A	Eva	
+True	0.36	1	0.018	33	67	18	Option A	Eva	
+True	-0.342	2	0.018	33	67	18	Option A	Eva	
+True	0	3	0.018	33	67	18	Option A	Eva	
+True	-0.306	4	0.018	33	67	18	Option A	Eva	
+False	0	4	0.018	33	67	18	Option A	Eva	
+True	0	5	0.018	33	67	18	Option A	Eva	
+True	0.252	6	0.018	33	67	18	Option A	Eva	
+True	-0.234	7	0.018	33	67	18	Option A	Eva	
+True	0.216	8	0.018	33	67	18	Option A	Eva	
+True	-0.198	9	0.018	33	67	18	Option A	Eva	
+False	0.216	0	0.0108	33	67	18	Option A	Eva	
+False	-0.2052	0	0.0108	33	67	18	Option A	Eva	
+False	0.1944	0	0.0108	33	67	18	Option A	Eva	
+True	-0.1836	1	0.0108	33	67	18	Option A	Eva	
+True	0	2	0.0108	33	67	18	Option A	Eva	
+True	0	3	0.0108	33	67	18	Option A	Eva	
+True	0	4	0.0108	33	67	18	Option A	Eva	
+False	0	4	0.0108	33	67	18	Option A	Eva	
+False	0.1296	4	0.0108	33	67	18	Option A	Eva	
+False	0	4	0.0108	33	67	18	Option A	Eva	
+True	0	1	0.0108	33	67	18	Option A	Eva	
+True	-0.2052	2	0.0108	33	67	18	Option A	Eva	
+False	0	2	0.0108	33	67	18	Option A	Eva	
+True	-0.1836	3	0.0108	33	67	18	Option A	Eva	
+False	0.1728	3	0.0108	33	67	18	Option A	Eva	
+True	-0.162	4	0.0108	33	67	18	Option A	Eva	
+False	0	4	0.0108	33	67	18	Option A	Eva	
+True	0	5	0.0108	33	67	18	Option A	Eva	
+False	0.1296	5	0.0108	33	67	18	Option A	Eva	
+True	-0.1188	6	0.0108	33	67	18	Option A	Eva	
+True	0	1	0.0108	33	67	18	Option A	Eva	
+True	0	2	0.0108	33	67	18	Option A	Eva	
+False	0	2	0.0108	33	67	18	Option A	Eva	
+False	-0.1836	2	0.0108	33	67	18	Option A	Eva	
+True	0	3	0.0108	33	67	18	Option A	Eva	
+True	-0.162	4	0.0108	33	67	18	Option A	Eva	
+True	0	5	0.0108	33	67	18	Option A	Eva	
+True	-0.1404	6	0.0108	33	67	18	Option A	Eva	
+True	0.1296	7	0.0108	33	67	18	Option A	Eva	
+True	0	8	0.0108	33	67	18	Option A	Eva	
+False	0	0	0.006480001	33	67	18	Option A	Eva	
+False	0	0	0.006480001	33	67	18	Option A	Eva	
+True	0	1	0.006480001	33	67	18	Option A	Eva	
+True	0	2	0.006480001	33	67	18	Option A	Eva	
+False	0.10368	2	0.006480001	33	67	18	Option A	Eva	
+True	0	3	0.006480001	33	67	18	Option A	Eva	
+True	0.09072001	4	0.006480001	33	67	18	Option A	Eva	
+True	0	5	0.006480001	33	67	18	Option A	Eva	
+True	0.07776001	6	0.006480001	33	67	18	Option A	Eva	
+True	0	7	0.006480001	33	67	18	Option A	Eva	
+True	0.07776001	1	0.003888001	33	67	18	Option A	Eva	
+True	-0.07387201	2	0.003888001	33	67	18	Option A	Eva	
+True	0	3	0.003888001	33	67	18	Option A	Eva	
+False	-0.066096	3	0.003888001	33	67	18	Option A	Eva	
+False	0	3	0.003888001	33	67	18	Option A	Eva	
+True	-0.05832	4	0.003888001	33	67	18	Option A	Eva	
+True	0	5	0.003888001	33	67	18	Option A	Eva	
+True	-0.050544	6	0.003888001	33	67	18	Option A	Eva	
+False	0.046656	6	0.003888001	33	67	18	Option A	Eva	
+True	-0.042768	7	0.003888001	33	67	18	Option A	Eva	
+True	0.04665601	1	0.002332801	33	67	18	Option A	Eva	
+True	0	2	0.002332801	33	67	18	Option A	Eva	
+False	0.04199041	2	0.002332801	33	67	18	Option A	Eva	
+True	-0.03965761	3	0.002332801	33	67	18	Option A	Eva	
+True	0	4	0.002332801	33	67	18	Option A	Eva	
+False	0	4	0.002332801	33	67	18	Option A	Eva	
+False	0.03265921	4	0.002332801	33	67	18	Option A	Eva	
+True	-0.03032641	5	0.002332801	33	67	18	Option A	Eva	
+False	0	5	0.002332801	33	67	18	Option A	Eva	
+True	0	6	0.002332801	33	67	18	Option A	Eva	
+True	0	1	0.002332801	33	67	18	Option A	Eva	
+True	-0.04432321	2	0.002332801	33	67	18	Option A	Eva	
+True	0	3	0.002332801	33	67	18	Option A	Eva	
+True	-0.03965761	4	0.002332801	33	67	18	Option A	Eva	
+True	0	5	0.002332801	33	67	18	Option A	Eva	
+False	0	5	0.002332801	33	67	18	Option A	Eva	
+True	0.03265921	6	0.002332801	33	67	18	Option A	Eva	
+True	0	7	0.002332801	33	67	18	Option A	Eva	
+True	0.02799361	8	0.002332801	33	67	18	Option A	Eva	
+True	0	9	0.002332801	33	67	18	Option A	Eva	
+True	0.02799361	1	0.00139968	33	67	18	Option A	Eva	
+True	0	2	0.00139968	33	67	18	Option A	Eva	
+True	0	1	0.05	34	72	19	Option A	Eva	
+True	0	2	0.05	34	72	19	Option A	Eva	
+True	-0.9	3	0.05	34	72	19	Option A	Eva	
+True	0.85	4	0.05	34	72	19	Option A	Eva	
+True	-0.8	5	0.05	34	72	19	Option A	Eva	
+True	0	6	0.05	34	72	19	Option A	Eva	
+True	0	7	0.05	34	72	19	Option A	Eva	
+True	0	8	0.05	34	72	19	Option A	Eva	
+True	0	9	0.05	34	72	19	Option A	Eva	
+True	0	10	0.05	34	72	19	Option A	Eva	
+True	-0.6	1	0.03	34	72	19	Option A	Eva	
+True	0.5700001	2	0.03	34	72	19	Option A	Eva	
+True	-0.5400001	3	0.03	34	72	19	Option A	Eva	
+True	0.5100001	4	0.03	34	72	19	Option A	Eva	
+True	-0.4800001	5	0.03	34	72	19	Option A	Eva	
+True	0	6	0.03	34	72	19	Option A	Eva	
+True	0	7	0.03	34	72	19	Option A	Eva	
+True	0	8	0.03	34	72	19	Option A	Eva	
+True	-0.3600001	9	0.03	34	72	19	Option A	Eva	
+True	0.3300001	10	0.03	34	72	19	Option A	Eva	
+False	0	0	0.018	34	72	19	Option A	Eva	
+True	0	1	0.018	34	72	19	Option A	Eva	
+True	-0.324	2	0.018	34	72	19	Option A	Eva	
+False	0.306	2	0.018	34	72	19	Option A	Eva	
+True	-0.288	3	0.018	34	72	19	Option A	Eva	
+True	0.27	4	0.018	34	72	19	Option A	Eva	
+False	0	4	0.018	34	72	19	Option A	Eva	
+True	0.234	5	0.018	34	72	19	Option A	Eva	
+True	-0.216	6	0.018	34	72	19	Option A	Eva	
+True	0	7	0.018	34	72	19	Option A	Eva	
+False	-0.216	0	0.0108	34	72	19	Option A	Eva	
+True	0.2052	1	0.0108	34	72	19	Option A	Eva	
+True	-0.1944	2	0.0108	34	72	19	Option A	Eva	
+False	0	2	0.0108	34	72	19	Option A	Eva	
+False	-0.1728	2	0.0108	34	72	19	Option A	Eva	
+True	0.162	3	0.0108	34	72	19	Option A	Eva	
+True	-0.1512	4	0.0108	34	72	19	Option A	Eva	
+True	0	5	0.0108	34	72	19	Option A	Eva	
+False	-0.1296	5	0.0108	34	72	19	Option A	Eva	
+True	0.1188	6	0.0108	34	72	19	Option A	Eva	
+True	0	1	0.0108	34	72	19	Option A	Eva	
+False	0	1	0.0108	34	72	19	Option A	Eva	
+True	-0.1944	2	0.0108	34	72	19	Option A	Eva	
+True	0.1836	3	0.0108	34	72	19	Option A	Eva	
+True	0	4	0.0108	34	72	19	Option A	Eva	
+False	0.162	4	0.0108	34	72	19	Option A	Eva	
+False	0	4	0.0108	34	72	19	Option A	Eva	
+False	0.1404	4	0.0108	34	72	19	Option A	Eva	
+False	-0.1296	4	0.0108	34	72	19	Option A	Eva	
+True	0	5	0.0108	34	72	19	Option A	Eva	
+True	0	1	0.0108	34	72	19	Option A	Eva	
+False	0	1	0.0108	34	72	19	Option A	Eva	
+False	-0.1944	1	0.0108	34	72	19	Option A	Eva	
+True	0	2	0.0108	34	72	19	Option A	Eva	
+True	0	3	0.0108	34	72	19	Option A	Eva	
+False	0	3	0.0108	34	72	19	Option A	Eva	
+False	0	3	0.0108	34	72	19	Option A	Eva	
+False	0.1404	3	0.0108	34	72	19	Option A	Eva	
+True	0	4	0.0108	34	72	19	Option A	Eva	
+False	0.1188	4	0.0108	34	72	19	Option A	Eva	
+True	-0.216	1	0.0108	34	72	19	Option A	Eva	
+True	0.2052	2	0.0108	34	72	19	Option A	Eva	
+True	-1	1	0.05	35	66	18	Option A	Mayela	
+True	0.95	2	0.05	35	66	18	Option A	Mayela	
+True	-0.9	3	0.05	35	66	18	Option A	Mayela	
+True	0.85	4	0.05	35	66	18	Option A	Mayela	
+True	-0.8	5	0.05	35	66	18	Option A	Mayela	
+True	0.7499999	6	0.05	35	66	18	Option A	Mayela	
+True	-0.6999999	7	0.05	35	66	18	Option A	Mayela	
+True	0	8	0.05	35	66	18	Option A	Mayela	
+True	0	9	0.05	35	66	18	Option A	Mayela	
+True	0	10	0.05	35	66	18	Option A	Mayela	
+True	0	1	0.03	35	66	18	Option A	Mayela	
+True	0.5700001	2	0.03	35	66	18	Option A	Mayela	
+True	0	3	0.03	35	66	18	Option A	Mayela	
+True	0	4	0.03	35	66	18	Option A	Mayela	
+True	0	5	0.03	35	66	18	Option A	Mayela	
+True	0.4500001	6	0.03	35	66	18	Option A	Mayela	
+True	0	7	0.03	35	66	18	Option A	Mayela	
+True	0	8	0.03	35	66	18	Option A	Mayela	
+True	0	9	0.03	35	66	18	Option A	Mayela	
+True	0	10	0.03	35	66	18	Option A	Mayela	
+True	-0.36	1	0.018	35	66	18	Option A	Mayela	
+True	0	2	0.018	35	66	18	Option A	Mayela	
+True	-0.324	3	0.018	35	66	18	Option A	Mayela	
+False	0.306	3	0.018	35	66	18	Option A	Mayela	
+False	0	3	0.018	35	66	18	Option A	Mayela	
+False	0	3	0.018	35	66	18	Option A	Mayela	
+True	0	4	0.018	35	66	18	Option A	Mayela	
+False	0	4	0.018	35	66	18	Option A	Mayela	
+True	0	5	0.018	35	66	18	Option A	Mayela	
+True	0	6	0.018	35	66	18	Option A	Mayela	
+True	-0.36	1	0.018	35	66	18	Option A	Mayela	
+True	0	2	0.018	35	66	18	Option A	Mayela	
+True	0	3	0.018	35	66	18	Option A	Mayela	
+True	0.306	4	0.018	35	66	18	Option A	Mayela	
+True	0	5	0.018	35	66	18	Option A	Mayela	
+False	0	5	0.018	35	66	18	Option A	Mayela	
+True	0	6	0.018	35	66	18	Option A	Mayela	
+False	0.234	6	0.018	35	66	18	Option A	Mayela	
+False	0	6	0.018	35	66	18	Option A	Mayela	
+False	0.198	6	0.018	35	66	18	Option A	Mayela	
+False	0	0	0.018	35	66	18	Option A	Mayela	
+True	0	1	0.018	35	66	18	Option A	Mayela	
+True	-0.324	2	0.018	35	66	18	Option A	Mayela	
+True	0.306	3	0.018	35	66	18	Option A	Mayela	
+False	0	3	0.018	35	66	18	Option A	Mayela	
+True	0	4	0.018	35	66	18	Option A	Mayela	
+False	-0.252	4	0.018	35	66	18	Option A	Mayela	
+True	0	5	0.018	35	66	18	Option A	Mayela	
+False	0	5	0.018	35	66	18	Option A	Mayela	
+True	0	6	0.018	35	66	18	Option A	Mayela	
+True	-0.36	1	0.018	35	66	18	Option A	Mayela	
+True	0.342	2	0.018	35	66	18	Option A	Mayela	
+True	-0.324	3	0.018	35	66	18	Option A	Mayela	
+True	0.306	4	0.018	35	66	18	Option A	Mayela	
+False	-0.288	4	0.018	35	66	18	Option A	Mayela	
+False	0	4	0.018	35	66	18	Option A	Mayela	
+True	-0.252	5	0.018	35	66	18	Option A	Mayela	
+True	0.234	6	0.018	35	66	18	Option A	Mayela	
+False	-0.216	6	0.018	35	66	18	Option A	Mayela	
+False	0.198	6	0.018	35	66	18	Option A	Mayela	
+True	1	1	0.05	36	67	18	Option A	Mayela	
+True	0	2	0.05	36	67	18	Option A	Mayela	
+True	0	3	0.05	36	67	18	Option A	Mayela	
+True	0	4	0.05	36	67	18	Option A	Mayela	
+True	0	5	0.05	36	67	18	Option A	Mayela	
+True	0	6	0.05	36	67	18	Option A	Mayela	
+True	0.6999999	7	0.05	36	67	18	Option A	Mayela	
+True	-0.6499999	8	0.05	36	67	18	Option A	Mayela	
+True	0	9	0.05	36	67	18	Option A	Mayela	
+True	0	10	0.05	36	67	18	Option A	Mayela	
+True	0.6	1	0.03	36	67	18	Option A	Mayela	
+True	0	2	0.03	36	67	18	Option A	Mayela	
+True	0	3	0.03	36	67	18	Option A	Mayela	
+True	0	4	0.03	36	67	18	Option A	Mayela	
+True	0	5	0.03	36	67	18	Option A	Mayela	
+True	-0.4500001	6	0.03	36	67	18	Option A	Mayela	
+True	0.4200001	7	0.03	36	67	18	Option A	Mayela	
+True	-0.3900001	8	0.03	36	67	18	Option A	Mayela	
+False	0.3600001	8	0.03	36	67	18	Option A	Mayela	
+True	-0.3300001	9	0.03	36	67	18	Option A	Mayela	
+True	0	1	0.018	36	67	18	Option A	Mayela	
+True	-0.342	2	0.018	36	67	18	Option A	Mayela	
+True	0.324	3	0.018	36	67	18	Option A	Mayela	
+True	-0.306	4	0.018	36	67	18	Option A	Mayela	
+True	0	5	0.018	36	67	18	Option A	Mayela	
+False	0	5	0.018	36	67	18	Option A	Mayela	
+True	0.252	6	0.018	36	67	18	Option A	Mayela	
+False	-0.234	6	0.018	36	67	18	Option A	Mayela	
+True	0.216	7	0.018	36	67	18	Option A	Mayela	
+False	-0.198	7	0.018	36	67	18	Option A	Mayela	
+True	0.216	1	0.0108	36	67	18	Option A	Mayela	
+True	-0.2052	2	0.0108	36	67	18	Option A	Mayela	
+True	0.1944	3	0.0108	36	67	18	Option A	Mayela	
+True	-0.1836	4	0.0108	36	67	18	Option A	Mayela	
+False	0	4	0.0108	36	67	18	Option A	Mayela	
+True	0	5	0.0108	36	67	18	Option A	Mayela	
+False	0.1512	5	0.0108	36	67	18	Option A	Mayela	
+False	0	5	0.0108	36	67	18	Option A	Mayela	
+True	0.1296	6	0.0108	36	67	18	Option A	Mayela	
+False	-0.1188	6	0.0108	36	67	18	Option A	Mayela	
+True	0.216	1	0.0108	36	67	18	Option A	Mayela	
+True	-0.2052	2	0.0108	36	67	18	Option A	Mayela	
+False	0	2	0.0108	36	67	18	Option A	Mayela	
+False	-0.1836	2	0.0108	36	67	18	Option A	Mayela	
+False	0	2	0.0108	36	67	18	Option A	Mayela	
+False	0	2	0.0108	36	67	18	Option A	Mayela	
+True	0.1512	3	0.0108	36	67	18	Option A	Mayela	
+False	-0.1404	3	0.0108	36	67	18	Option A	Mayela	
+False	0	3	0.0108	36	67	18	Option A	Mayela	
+True	-0.1188	4	0.0108	36	67	18	Option A	Mayela	
+True	0.216	1	0.0108	36	67	18	Option A	Mayela	
+True	-0.2052	2	0.0108	36	67	18	Option A	Mayela	
+False	0	2	0.0108	36	67	18	Option A	Mayela	
+True	-0.1836	3	0.0108	36	67	18	Option A	Mayela	
+True	0	4	0.0108	36	67	18	Option A	Mayela	
+False	-0.162	4	0.0108	36	67	18	Option A	Mayela	
+False	0	4	0.0108	36	67	18	Option A	Mayela	
+True	-0.1404	5	0.0108	36	67	18	Option A	Mayela	
+True	0.1296	6	0.0108	36	67	18	Option A	Mayela	
+True	0	7	0.0108	36	67	18	Option A	Mayela	
+False	0.1296	0	0.006480001	36	67	18	Option A	Mayela	
+False	-0.12312	0	0.006480001	36	67	18	Option A	Mayela	
+False	0	0	0.006480001	36	67	18	Option A	Mayela	
+False	0	0	0.006480001	36	67	18	Option A	Mayela	
+False	0	0	0.006480001	36	67	18	Option A	Mayela	
+False	0	0	0.006480001	36	67	18	Option A	Mayela	
+True	0.09072001	1	0.006480001	36	67	18	Option A	Mayela	
+False	-0.08424001	1	0.006480001	36	67	18	Option A	Mayela	
+False	0	1	0.006480001	36	67	18	Option A	Mayela	
+False	0	1	0.006480001	36	67	18	Option A	Mayela	
+False	0.1296	0	0.006480001	36	67	18	Option A	Mayela	
+True	-0.12312	1	0.006480001	36	67	18	Option A	Mayela	
+True	0.11664	2	0.006480001	36	67	18	Option A	Mayela	
+True	0	3	0.006480001	36	67	18	Option A	Mayela	
+True	0	4	0.006480001	36	67	18	Option A	Mayela	
+False	0	4	0.006480001	36	67	18	Option A	Mayela	
+False	0	4	0.006480001	36	67	18	Option A	Mayela	
+False	0	4	0.006480001	36	67	18	Option A	Mayela	
+False	0.07776001	4	0.006480001	36	67	18	Option A	Mayela	
+True	-0.07128001	5	0.006480001	36	67	18	Option A	Mayela	
+True	-1	1	0.05	37	73	18	Option A	Eva	
+True	0.95	2	0.05	37	73	18	Option A	Eva	
+True	0	3	0.05	37	73	18	Option A	Eva	
+True	0	4	0.05	37	73	18	Option A	Eva	
+True	-0.8	5	0.05	37	73	18	Option A	Eva	
+True	0.7499999	6	0.05	37	73	18	Option A	Eva	
+False	0	6	0.05	37	73	18	Option A	Eva	
+True	0	7	0.05	37	73	18	Option A	Eva	
+False	0	7	0.05	37	73	18	Option A	Eva	
+True	0.5499999	8	0.05	37	73	18	Option A	Eva	
+True	-0.6	1	0.03	37	73	18	Option A	Eva	
+True	0.5700001	2	0.03	37	73	18	Option A	Eva	
+True	0	3	0.03	37	73	18	Option A	Eva	
+True	0	4	0.03	37	73	18	Option A	Eva	
+True	-0.4800001	5	0.03	37	73	18	Option A	Eva	
+True	0.4500001	6	0.03	37	73	18	Option A	Eva	
+True	-0.4200001	7	0.03	37	73	18	Option A	Eva	
+True	0.3900001	8	0.03	37	73	18	Option A	Eva	
+True	0	9	0.03	37	73	18	Option A	Eva	
+True	0	10	0.03	37	73	18	Option A	Eva	
+True	0	1	0.018	37	73	18	Option A	Eva	
+True	0.342	2	0.018	37	73	18	Option A	Eva	
+True	-0.324	3	0.018	37	73	18	Option A	Eva	
+True	0	4	0.018	37	73	18	Option A	Eva	
+True	0	5	0.018	37	73	18	Option A	Eva	
+False	0	5	0.018	37	73	18	Option A	Eva	
+False	0	5	0.018	37	73	18	Option A	Eva	
+False	0	5	0.018	37	73	18	Option A	Eva	
+True	0	6	0.018	37	73	18	Option A	Eva	
+True	0.198	7	0.018	37	73	18	Option A	Eva	
+False	0	0	0.0108	37	73	18	Option A	Eva	
+True	0.2052	1	0.0108	37	73	18	Option A	Eva	
+False	-0.1944	1	0.0108	37	73	18	Option A	Eva	
+True	0	2	0.0108	37	73	18	Option A	Eva	
+True	-0.1728	3	0.0108	37	73	18	Option A	Eva	
+True	0	4	0.0108	37	73	18	Option A	Eva	
+False	0	4	0.0108	37	73	18	Option A	Eva	
+False	0	4	0.0108	37	73	18	Option A	Eva	
+False	-0.1296	4	0.0108	37	73	18	Option A	Eva	
+False	0.1188	4	0.0108	37	73	18	Option A	Eva	
+True	-0.216	1	0.0108	37	73	18	Option A	Eva	
+True	0.2052	2	0.0108	37	73	18	Option A	Eva	
+True	0	3	0.0108	37	73	18	Option A	Eva	
+False	0	3	0.0108	37	73	18	Option A	Eva	
+False	0	3	0.0108	37	73	18	Option A	Eva	
+True	0	4	0.0108	37	73	18	Option A	Eva	
+False	0	4	0.0108	37	73	18	Option A	Eva	
+False	0.1404	4	0.0108	37	73	18	Option A	Eva	
+True	-0.1296	5	0.0108	37	73	18	Option A	Eva	
+True	0	6	0.0108	37	73	18	Option A	Eva	
+False	0	0	0.0108	37	73	18	Option A	Eva	
+True	0.2052	1	0.0108	37	73	18	Option A	Eva	
+True	0	2	0.0108	37	73	18	Option A	Eva	
+False	0	2	0.0108	37	73	18	Option A	Eva	
+True	-0.1728	3	0.0108	37	73	18	Option A	Eva	
+False	0	3	0.0108	37	73	18	Option A	Eva	
+True	-0.1512	4	0.0108	37	73	18	Option A	Eva	
+True	0	5	0.0108	37	73	18	Option A	Eva	
+True	0	6	0.0108	37	73	18	Option A	Eva	
+False	0	6	0.0108	37	73	18	Option A	Eva	
+False	-0.216	0	0.0108	37	73	18	Option A	Eva	
+False	0	0	0.0108	37	73	18	Option A	Eva	
+False	0	0	0.0108	37	73	18	Option A	Eva	
+False	0.1836	0	0.0108	37	73	18	Option A	Eva	
+True	0	1	0.0108	37	73	18	Option A	Eva	
+True	0.162	2	0.0108	37	73	18	Option A	Eva	
+True	-0.1512	3	0.0108	37	73	18	Option A	Eva	
+False	0.1404	3	0.0108	37	73	18	Option A	Eva	
+False	-0.1296	3	0.0108	37	73	18	Option A	Eva	
+False	0.1188	3	0.0108	37	73	18	Option A	Eva	
+True	1	1	0.05	38	72	19	Option A	Eva	
+True	-0.95	2	0.05	38	72	19	Option A	Eva	
+True	0	3	0.05	38	72	19	Option A	Eva	
+True	-0.85	4	0.05	38	72	19	Option A	Eva	
+True	0.8	5	0.05	38	72	19	Option A	Eva	
+True	-0.7499999	6	0.05	38	72	19	Option A	Eva	
+True	0.6999999	7	0.05	38	72	19	Option A	Eva	
+True	0	8	0.05	38	72	19	Option A	Eva	
+True	0.5999999	9	0.05	38	72	19	Option A	Eva	
+True	0	10	0.05	38	72	19	Option A	Eva	
+True	0.6	1	0.03	38	72	19	Option A	Eva	
+True	-0.5700001	2	0.03	38	72	19	Option A	Eva	
+True	0	3	0.03	38	72	19	Option A	Eva	
+False	0	3	0.03	38	72	19	Option A	Eva	
+True	0.4800001	4	0.03	38	72	19	Option A	Eva	
+True	0	5	0.03	38	72	19	Option A	Eva	
+False	0.4200001	5	0.03	38	72	19	Option A	Eva	
+True	0	6	0.03	38	72	19	Option A	Eva	
+True	0.3600001	7	0.03	38	72	19	Option A	Eva	
+False	0	7	0.03	38	72	19	Option A	Eva	
+True	0	1	0.018	38	72	19	Option A	Eva	
+False	0	1	0.018	38	72	19	Option A	Eva	
+True	0	2	0.018	38	72	19	Option A	Eva	
+True	0	3	0.018	38	72	19	Option A	Eva	
+False	0	3	0.018	38	72	19	Option A	Eva	
+True	0	4	0.018	38	72	19	Option A	Eva	
+True	0	5	0.018	38	72	19	Option A	Eva	
+True	0	6	0.018	38	72	19	Option A	Eva	
+True	0.216	7	0.018	38	72	19	Option A	Eva	
+True	0	8	0.018	38	72	19	Option A	Eva	
+False	0	0	0.0108	38	72	19	Option A	Eva	
+False	-0.2052	0	0.0108	38	72	19	Option A	Eva	
+True	0.1944	1	0.0108	38	72	19	Option A	Eva	
+True	-0.1836	2	0.0108	38	72	19	Option A	Eva	
+True	0	3	0.0108	38	72	19	Option A	Eva	
+True	0	4	0.0108	38	72	19	Option A	Eva	
+True	0	5	0.0108	38	72	19	Option A	Eva	
+False	0	5	0.0108	38	72	19	Option A	Eva	
+False	0.1296	5	0.0108	38	72	19	Option A	Eva	
+False	-0.1188	5	0.0108	38	72	19	Option A	Eva	
+True	0.216	1	0.0108	38	72	19	Option A	Eva	
+True	0	2	0.0108	38	72	19	Option A	Eva	
+True	0.1944	3	0.0108	38	72	19	Option A	Eva	
+False	-0.1836	3	0.0108	38	72	19	Option A	Eva	
+False	0	3	0.0108	38	72	19	Option A	Eva	
+False	0	3	0.0108	38	72	19	Option A	Eva	
+False	0.1512	3	0.0108	38	72	19	Option A	Eva	
+False	0	3	0.0108	38	72	19	Option A	Eva	
+False	0	3	0.0108	38	72	19	Option A	Eva	
+False	0	3	0.0108	38	72	19	Option A	Eva	
+True	0	1	0.0108	38	72	19	Option A	Eva	
+False	0	1	0.0108	38	72	19	Option A	Eva	
+True	0.1944	2	0.0108	38	72	19	Option A	Eva	
+False	0	2	0.0108	38	72	19	Option A	Eva	
+False	0.1728	2	0.0108	38	72	19	Option A	Eva	
+False	0	2	0.0108	38	72	19	Option A	Eva	
+True	0	3	0.0108	38	72	19	Option A	Eva	
+False	0	3	0.0108	38	72	19	Option A	Eva	
+False	0	3	0.0108	38	72	19	Option A	Eva	
+False	-0.1188	3	0.0108	38	72	19	Option A	Eva	
+False	0	0	0.0108	38	72	19	Option A	Eva	
+True	0	1	0.0108	38	72	19	Option A	Eva	
+True	0	2	0.0108	38	72	19	Option A	Eva	
+True	-0.1836	3	0.0108	38	72	19	Option A	Eva	
+False	0	3	0.0108	38	72	19	Option A	Eva	
+False	0	3	0.0108	38	72	19	Option A	Eva	
+True	0.1512	4	0.0108	38	72	19	Option A	Eva	
+False	0	4	0.0108	38	72	19	Option A	Eva	
+True	0.1296	5	0.0108	38	72	19	Option A	Eva	
+True	0	6	0.0108	38	72	19	Option A	Eva	
